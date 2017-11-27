@@ -12,7 +12,7 @@ whole process was quite vague so I started using my course project as a way to f
 Then I got lost!
 
 So much in last 3 years. One has to start minimally in this vast ocean of literature.
-I am thankful to a large number of blogs from which I have learnt immensly. This is just my way of extending the knowledge.
+I am thankful to a large number of blogs from which I have learned immensely. This is just my way of extending the knowledge.
 Here In this blog post I intend to show you how to completely run a simple AI game in Python and train it using Tensorflow.
 
 
@@ -22,7 +22,7 @@ We have an agent that has a set of Sonar sensors attached to its front. There is
 
 The game should look something like this.
 
-![Agent with sonar sensors](../images/bg_rl_1.png)
+<img width="420" height="315" src="/images/bg_rl_1.png" alt="Agent with sonar sensors"/>
 
 To even think about creating something like this, I am grateful to Matt Harvey's [RL blog series](https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6#.ihcdue9fu) and also my friend [Hardik](http://goelhardik.github.io/) as a source of inspiration for this work. The base code for the game can be taken from [Matt's github link](https://github.com/harvitronix/reinforcement-learning-car/blob/master/flat_game/carmunk.py) and will serve as our starting point. He trained using Keras as the Neural Net library but I prefer Tensorflow and the other parts of the code will vary as we will see how to implement bunch of cool things like.
 
@@ -34,7 +34,7 @@ The above points were discovered in the famous Deepmind's Atari paper. We will g
 #### Tweaking the game.
 Get the `carmunk.py` from the above github link and try running it directly, it will show something like this.
 
-![Matt's initial environment](../images/blog2.png)
+<img width="420" height="315" src="/images/blog2.png" alt="Matt's initial environment"/>
 
 We just need to remove the blue obstacles and increase the number of sonar sensors to get the target configuration. Also we need to tweak the reward system as originally, Matt trained this for avoiding the obstacles but we want to home in the orange target.
 
@@ -336,7 +336,7 @@ def epsilon_greedy(self, qval):
         return np.argmax(qval)
 ```
 
-When we start, we start with a high epsilon (=0.9) which means we explore the arena and new states as extensively as possible in the starting(90% of time). As we have trained say about 10000 iterations with high epsilon (that is high exploration) we start reducing the value of epsilon to let our learnt policy take control more often. After a large number of iterations, we stop decreasing the value of epsilon and keep it fixed at 0.1. This is to ensure that if we get stuck in our greedy policy, we have some chances to take a random action to get out of it.
+When we start, we start with a high epsilon (=0.9) which means we explore the arena and new states as extensively as possible in the starting(90% of time). As we have trained say about 10000 iterations with high epsilon (that is high exploration) we start reducing the value of epsilon to let our learned policy take control more often. After a large number of iterations, we stop decreasing the value of epsilon and keep it fixed at 0.1. This is to ensure that if we get stuck in our greedy policy, we have some chances to take a random action to get out of it.
 
 Also, instead of performing updates using the sequential on-policy experience, we take a scoop of the random past experiences from the replay buffer. Some book keeping may also be needed here:
 
@@ -390,7 +390,7 @@ The results looks nice actually! After some 300 episodes, the agent just homes i
 <iframe width="420" height="315" src="https://www.youtube.com/embed/h2pmw6pjONU" frameborder="0" allowfullscreen></iframe>
 
 The time per episode can be visualized using TensorFlow too! And it is decreasing as we expected.
-![Graph](../images/blog_tensorflow_time_per_epoch.png)
+<img width="720" height="315" src="/images/blog_tensorflow_time_per_epoch.png" alt="Graph"/>
 
 ## Future Work.
 1)  There are few inconsistencies. Check out the first few seconds of the video below. When the agents sensor is not in the reach of the target, it learns to rotate and rotate and rotate ... which is not good. Here the epsilon of 0.1 will help to breakout from this way too greedy policy. (Exploration vs Exploitation remember!) Also, this rotation can be somewhat taken care of when we make the wall visible and treat hitting as a major negative reward. Atleast then it will rotate at the center of the space and not in one corner! I will postpone that implementation for the next time.

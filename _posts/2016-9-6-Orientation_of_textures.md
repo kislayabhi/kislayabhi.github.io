@@ -12,7 +12,7 @@ I hope my 2 weeks of code writing and digging will help someone to a more robust
 **The problem statement**:
 Given a texture image or any repeated patterned image, find the general orientation along which the lines are angled to.
 
-![angled_image](../images/angled_stripes.jpg)
+![angled_image](/images/angled_stripes.jpg)
 ![zigzag_image](/images/zigzagstripes.jpg)
 
  For example in the first image above, the orientation should all be angled at 45 degrees while in the second image, the orientation map should give evidence of a zig zag pattern.
@@ -40,7 +40,7 @@ fftA = fft2(double(img));
 figure, imshow(abs(fftshift(fftA)),[24 100000]), colormap gray
 title('Image A FFT2 Magnitude')
 ```
-![2d_magnitude_Result](../images/2dfftres.jpg)
+![2d_magnitude_Result](/images/2dfftres.jpg)
 
 This diagonal line certainly is orthogonal to the direction of the general orientation of the stripes. You can find the direction of this line using some morphological operations and hough transform.
 
@@ -49,7 +49,7 @@ One more example can be seen nicely described in this stackoverflow answer [here
 
 However when we are required to deal with images which has more than one general direction associated with it, then it is difficult to decipher all of them out from the 2d fourier transform's magnitude image. For example, if you run the same above matlab code on the zigzag image as of above, the result looks something like this:
 
-![2dfft_zigzag](../images/2dmag_zigzag.jpg).
+![2dfft_zigzag](/images/2dmag_zigzag.jpg).
 
 Though this image has the information about the orthogonal orientations of the zigzag image, getting those directions out of this image is a thing in itself. Moreover, you can see that as we go on increasing the number of directions, this method starts getting complicated.
 
@@ -60,7 +60,7 @@ The derivatives of Gaussian function are the most common used steerable filters 
 
 For our purpose, we will design a steerable quadrature pair based on the frequency response of the second derivative of Gaussian (denoted ```G2```). A pair of filters is said to be in quadrature if they have the same frequency response but differ in phase by 90 degrees (i.e are Hilbert transforms of each other). Such pairs allow for analyzing spectral strength independent of phase and allow for synthesizing filters of a given frequency response with arbitrary phase.
 
-![inphase and quadrature filters](../images/g4_filters.png)
+![inphase and quadrature filters](/images/g4_filters.png)
 
 The 4 pairs if written algebraically looks like:
 
@@ -86,7 +86,7 @@ Essentially, we want the output of each of the 7 filters shown above on our imag
 
 In table XI in Appendix I, they have mentioned the analytical equations for finding dominant orientation angle and the orientation strength of each pixel.
 
-![Equations for dominant orienation theta and its strength ](../images/apdx1.png)
+![Equations for dominant orienation theta and its strength ](/images/apdx1.png)
 
 [Appendix I, Table XI, Paper: Freeman and Adelson, Design and Use of Steerable Filters]
 
@@ -143,26 +143,26 @@ axis([0 w 0 h]),axis image, axis ij;
 
 You can see that, after calculating the ```theta``` and ```orient_strength``` matrix, I did an element-wise multiplication of the ```orient_strength``` with the angles before showing the orientation map (the quiver plot). What this basically does is, it maps the size of the arrows in the quiver plot according to the strength of that orientation.
 
-Result of the zigzag image looks like this: ![zigzag perpixel steerable result](../images/zigres.png)
+Result of the zigzag image looks like this: ![zigzag perpixel steerable result](/images/zigres.png)
 
 Result on the other 45 degrees angled image, looks like:
-![angled_res_steer](../images/angled_res_steer.png)
+![angled_res_steer](/images/angled_res_steer.png)
 
 We can observe that it does mistakes in differentiating between orthogonal directions though. Let's try out on some other difficult patterns.
 
 1) Weird Pattern 1.
 
-![weird_image1_result_steerable](../images/wrd1.png)
+![weird_image1_result_steerable](/images/wrd1.png)
 
 Zoomed version of the result:
-![zoomed_weird_image1_result_steerable](../images/zoomed_weird_1.png)
+![zoomed_weird_image1_result_steerable](/images/zoomed_weird_1.png)
 
 2) Weird Pattern 2.
 
-![weird_image2_result_steerable](../images/wrd2.png)
+![weird_image2_result_steerable](/images/wrd2.png)
 
 Zoomed version of the result:
-![zoomed_weird_image2_result_steerable](../images/zoomed_weird_2.png)
+![zoomed_weird_image2_result_steerable](/images/zoomed_weird_2.png)
 
 
 The problem with these filters are that, they are way more local. (One direction for one pixel.) What we wanted was a general orientation that describes at lest an image patch.
@@ -197,13 +197,13 @@ clf ; imagesc(imhog) ; colormap gray ;
 
 The results on the 4 images from the start respectively are:
 
-![hog angled image](../images/hogang1.png)
+![hog angled image](/images/hogang1.png)
 
-![hog zigzag orientation results](../images/hogzig.png)
+![hog zigzag orientation results](/images/hogzig.png)
 
-![hog weird pattern 1](../images/hogwrd1.png)
+![hog weird pattern 1](/images/hogwrd1.png)
 
-![hog weird pattern 2 results](../images/hogwrd2.png)
+![hog weird pattern 2 results](/images/hogwrd2.png)
 
 To just draw the maximum orientation per patch instead of drawing all the 9 orientations (as above), try to sum 1st, 10th, 19th and 28th element of the 36 element HOG descriptor to get the orientation strength of the 1st orientation. (90 deg wrt to positive x axis.) Similary do it for all the 9 orientations. Find which one is maximum and use the angle associated with it. The angle difference between each index is ofcourse ```pi/9```.
 

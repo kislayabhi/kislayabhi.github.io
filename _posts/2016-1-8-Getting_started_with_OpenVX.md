@@ -18,7 +18,7 @@ Run
 $ python Build.py --os=Linux 
 ```
 
-For this step to be successfull, your system must have the build essentials installed (things like make, g++, gcc etc) along with cmake. You can get them using 
+For this step to be successful, your system must have the build essentials installed (things like make, g++, gcc etc) along with cmake. You can get them using 
 
 ```bash 
 $ sudo apt-get install build-essential cmake 

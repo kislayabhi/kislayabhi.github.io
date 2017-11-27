@@ -20,8 +20,10 @@ If you think of the 1st image in a bigger canvas where everything surrounding it
 Anyways, I wanted to get started with coding this Homography retrieval using OpenCV in C++. To find the homography between any two source and destination images, we need to have at-lest 4 point to point correspondences. Getting these correspondences are easy if you use some kind of feature detector and match them via their descriptors. Examples of some feature detectors are SIFT, SURF, ORB etc etc. We will stick to SIFT here. They are a bit slow compared to other options but are most accurate.
 
 (1.) So we start with 2 images. Image 1 is the destination and Image 2 is the source. Both have some overlap between them.
-![Image 1](/images/1.jpg "Destination Image")
-![Image 2](/images/2.jpg "Source Image")
+
+![Image 1](/images/1.jpg "Destination Image"){:height="315" width="420"}
+![Image 2](/images/2.jpg "Source Image"){:height="315" width="420"}
+
 
 (2.) As I mentioned previously, we need to think of the destination image on a bigger canvas if we want to stick the pixels from the source image around it. Let's do that.
 
@@ -32,7 +34,8 @@ Mat trans_mat = (Mat_<double>(2, 3) << 1, 0, offsetx, 0, 1, offsety);
 warpAffine(im1, im1, trans_mat, Size(3 * im1.cols, 3 * im1.rows));
 ```
 The result:
-![Bigger Canvas Image 1](/images/3.jpg "Bigger Canvas Image")
+
+![Bigger Canvas Image 1](/images/3.jpg "Bigger Canvas Image"){:height="400" width="620"}
 
 (3.) Now we will find the SIFT feature matches between the current bigger canvased image: im_1 and the other image im_2.
 
@@ -70,7 +73,8 @@ for (int i = 0; i < 200; i++)
 ```
 
 The good matches when drawn looks like this:
-![Good Matches](/images/Good_Matches.jpg "Good Matches Image")
+
+![Good Matches](/images/Good_Matches.jpg "Good Matches Image"){:height="400" width="620"}
 
 
 (4.) Now since we have the best 200 SIFT matches between the images, we can find the Homography 1H2. As we know, we need only 4 matches at minimum to find the homography. But using more matches can improve the accuracy if we use RANSAC. RANSAC method try many different random subsets of the corresponding point pairs (of four pairs each), estimate the homography matrix using this subset and a simple least-square algorithm, and then compute the quality/goodness of the computed homography (which is the number of inliers for RANSAC or the median re-projection error for LMeDs). The best subset is then used to produce the initial estimate of the homography matrix and the mask of inliers/outliers.
@@ -104,7 +108,7 @@ Mat wim_2;
 warpPerspective(im_2, wim_2, H, im_1.size());
 ```
 If you do a imshow on wim_2 i.e the warped image2 according to 1H2, on a bigger canvas, it will look like this:
-![warped_image2_on_bigger_canvas](/images/warped_image2_on_bigger_canvas.jpg "warped image2 on bigger canvas")
+![warped_image2_on_bigger_canvas](/images/warped_image2_on_bigger_canvas.jpg "warped image2 on bigger canvas"){:height="400" width="620"}
 
 (6.) Most of the things are done now. We just need to merge these two images together. A crude and simple method for this is: *copy all those pixels from the wim_2 to im_1 which are black in im_1.*
 
@@ -122,8 +126,8 @@ for (int i = 0; i < im_1.cols; i++)
 ```
 
 Let's see how im_1 looks now!
-![Panorama Result](/images/pano_result.jpg "panorama result")
+![Panorama Result](/images/pano_result.jpg "panorama result"){:height="400" width="620"}
 
-TaDa! We have a basic Panorama out here! Now say you have many more images. Then it is better if you write two functions. One for shifting the dest image on the center of a bigger canvas and other for stickig im_2 on im_1 and returning a im_12. Now again run this function for sticking im_3 on im_12 to get im_123 ... zzzz.
+TaDa! We have a basic Panorama out here! Now say you have many more images. Then it is better if you write two functions. One for shifting the dest image on the center of a bigger canvas and other for sticking im_2 on im_1 and returning a im_12. Now again run this function for sticking im_3 on im_12 to get im_123 ... zzzz.
 
 I hope you get the idea! If you didn't get it ... er er .. No problems! Here is the code: <https://github.com/kislayabhi/blog_code/tree/master/OpenCV_pano>
