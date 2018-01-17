@@ -3,6 +3,7 @@ layout: post
 title: Installing CUDA 7.5 with Ubuntu 16.04 or Ubuntu 14.04
 published: true
 comments: true
+categories: Tech
 ---
 
 Hey Guys. I have spent days if not months installing CUDA 7.0 and CUDA 7.5 in Ubuntu 14.04 and Ubuntu 16.04 over different laptops(Dell and Asus). I finally got them working. While there are numerous tutorials present over the web, most are incomplete and error prone. The difficulty comes in installing the Nvidia drivers. If one does a mistake then the system crashes(since you need Nvidia drivers for Cuda only but not for graphics display. The default settings messes the OpenGL display drivers) and you need to do a fresh install (again there are many messy ways to escape without a fresh install but lets try to make it correct from the start anyways).

@@ -1,0 +1,97 @@
+---
+layout: post
+title: 2nd week report.
+date: 2014-05-27 11:43:26.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+comments: true
+categories:
+- GSoC
+tags: []
+---
+<p>My work is primarily to develop a clean way to convert between OpenCV’s Mat object into our Shogun’s SGMatrix object. This would be really cool, once we have it as there will be a seamless interaction between both the libraries. Whenever we need machine learning capabilities, we can switch to Shogun and whenever we need the Image processing manipulations we can work on with OpenCV.</p>
+
+<h2><span style="text-decoration:underline;"><b>Point:</b></span></h2>
+<p>To develop a Factory such that if in its arguments I give a cv::Mat object’s name, It returns me with a DenseFeature object of shogun containing that matrix. The flexibility should be like that whatever type the input Mat might be (i.e uint8, uin16, float32,..etc), the user can choose what kind of DenseFeature he wanna work with. And yeah going vice versa will also be needed.</p>
+<p><b>Things that are needed to be done</b>:</p>
+<p>We have 3 methods of converting data as suggested by Kevin in his gist <a href="https://gist.github.com/pickle27/6751722">here</a> . Those are namely:</p>
+<ol>
+<li> Using Constructors.</li>
+<li> Using for loops (i.e doing it all manually).</li>
+<li> Using Memcpy.</li>
+</ol>
+<p>So, Using this I got a nice idea of how the main conversion would look like. Now comes the design part.</p>
+<p>That means the functions declaration that we want would look something like this :</p>
+<pre>CDenseFeatures&lt;T&gt;* CV2FeaturesFactory::getDenseFeatures(cv::Mat, CV2SGOptions).</pre>
+<p>The 1st argument is to hold the name of the cv::Mat object that we want to transform.</p>
+<p>The 2nd argument is to hold the name of the different options.</p>
+<p>The template argument T would specify the type of the output CDenseFeatures that we want.</p>
+<h2><span style="text-decoration:underline;"><b>Initial Steps that came to my mind:</b></span></h2>
+<p>Now doing such a thing would require to define a template function in a non-templated class.</p>
+<p>The non-templated class would look like :</p>
+<pre>class  CV2FeaturesFactory</pre>
+<pre>{</pre>
+<pre>public:</pre>
+<pre>template&lt;class T&gt; static CDenseFeatures&lt;T&gt;* CV2FeaturesFactory::getDenseFeatures(cv::Mat, CV2SGOptions);</pre>
+<pre>};</pre>
+<p>We need to somehow extract few things from the cv::Mat before we start with the Kevin’s methods. Those are:</p>
+<p>1. Number of Rows.</p>
+<p>2. Number of Columns.</p>
+<p>3. What type is cv::Mat object  to start with!!</p>
+<p>4. I think we may even need to convert it into the required type before we feed it into the 3 methods mentioned at the start.</p>
+<h2><b>Setting It all up:</b></h2>
+<p>Most things are quite straight forward.</p>
+<ul>
+<li>To calculate number of rows/cols for a obj named cvMat, we have :</li>
+</ul>
+<pre style="padding-left:60px;">int r=cvMat.rows;</pre>
+<pre style="padding-left:60px;">int c=cvMat.cols;</pre>
+<ul>
+<li>No need to know the type of cvMat. We just need to convert whatever it is into the required type using the</li>
+</ul>
+<pre style="padding-left:60px;">cvMat.convertTo(cvMat, the output typename);</pre>
+<ul>
+<li>The only thing thats needed to be done here explicitly is to transfer the typename from the template argument (i.e &lt;class T&gt; in the function definition) to something understandable to OpenCV in its convertTo() function ‘s second argument.</li>
+</ul>
+<ul>
+<li>I checked out the way OpenCV handles it’s Types, and found about the enums:</li>
+</ul>
+<pre style="padding-left:180px;">8-bit unsigned integer (uchar)</pre>
+<pre style="padding-left:180px;">8-bit signed integer (schar)</pre>
+<pre style="padding-left:180px;">16-bit unsigned integer (ushort)</pre>
+<pre style="padding-left:180px;">16-bit signed integer (short)</pre>
+<pre style="padding-left:180px;">32-bit signed integer (int)</pre>
+<pre style="padding-left:180px;">32-bit floating-point number (float)</pre>
+<pre style="padding-left:180px;">64-bit floating-point number (double)</pre>
+<pre>enum { CV_8U=0, CV_8S=1, CV_16U=2, CV_16S=3, CV_32S=4, CV_32F=5, CV_64F=6 };</pre>
+<p>This was a great finding. What this means is that we only need to somehow convert the given T into the required integer. Say, if the user has specified ‘uint16_t’ as the ‘T’. Then we need to get integer value 2 into the arguments of convertTo() function.</p>
+<p>Now, the thing is that I cannot possibly play with adding default enums for uint8_t, uint16t_t, float32_t …. . It is not allowed as I kept on getting the error as it being ‘redeclared’.</p>
+<ul>
+<li>The only thing I could come up with was a templated function which returns the required integers depending on the template arguement T.  For eg:</li>
+</ul>
+<pre>int ans = get&lt;uint8_t&gt;() would set ans to 0;</pre>
+<pre>int ans = get&lt;float64_t&gt;() would set ans to 6;</pre>
+<p>I searched and found USER SPECIALIZATION. It does exactly this thing.</p>
+<p>By default, a template gives a single definition to be used for every template argument. This doesn’t always makes sense in the way that If I want my implementation to be different for different types say, for each of the 3 following types:</p>
+<p>uint8, int16, float32 --- I want to write three different implementations of the same named templated functions. This can be achieved using<i> Specialization. </i></p>
+<p>So, I came up with this :</p>
+<p>the general template must be declared before any specialization.</p>
+<p>“The critical information supplied by the general template is the set of template parameters that the user must supply to use it or any of its specializations.”</p>
+<pre>template&lt;typename T&gt; class CV2SGTypeName;</pre>
+<pre>template&lt;&gt; struct CV2SGTypeName&lt;uint8_t&gt;{</pre>
+<pre> static const int get(){return 0;}</pre>
+<pre>};</pre>
+<pre>template&lt;&gt; struct CV2SGTypeName&lt;int8_t&gt;{</pre>
+<pre>static const int get(){return 1;}</pre>
+<pre>};</pre>
+<pre>template&lt;&gt; struct CV2SGTypeName&lt;uint16_t&gt;{</pre>
+<pre>static const int get(){return 2;}</pre>
+<pre>} and so on</pre>
+<p>Here I have created few specializations which can be used as the common implementation for the user.</p>
+<p>So now we have a function CV2SGTypeName&lt;T&gt;::get() which can be used very flexibly to return integers based on the template argument.</p>
+<p>i.e</p>
+<pre>const int myType = CV2SGTypeName&lt;T&gt;::get();</pre>
+<p>I will add the source codes Once It gets ready to be merged.</p>

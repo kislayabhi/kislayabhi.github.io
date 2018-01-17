@@ -3,6 +3,7 @@ layout: post
 title: "Writing a MakeFile"
 published: true
 comments: true
+categories: Tech
 ---
 
 Understanding the concept of Libraries is important if you have to deal with C or C++ code on a daily basis. For me, since these days I am working with OpenVX specification and taking the Operating Systems class, it has become an absolute necessity. 

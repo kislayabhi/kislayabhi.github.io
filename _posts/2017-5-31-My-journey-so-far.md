@@ -1,0 +1,24 @@
+---
+layout: post
+title: My journey so far
+published: true
+comments: true
+categories: 
+- Life philosophy
+---
+
+After graduating from my Masters university, I got a chance to get involved with the local Toastmasters group in Minneapolis. Here is the ice-breaker speech that I delivered in front of the members.
+
+Mr Toastmaster, fellow toastmasters and guests.
+
+The title of my icebreaker is -- (halt) “My journey so far”(emphasis). Like everyone else, my journey started with my birth; no exceptions here(in a hush). -- And when I was born, I was given a name. -- My name is (show the placard of your name to the audience). Over the time I have spent here, I have come to realize that my name can get a bit difficult to pronounce. Let me make that easy for you. -- My name can be broken down into 3 parts: Aaa - bhee - jeet (slow). If you please repeat with me: Aaa -- bhee -- jeet -- . Now all together: Aaabheejeet (chorus). Awesome! You guys nailed it!. -- The other peculiarity about my name, apart from the fact that it is difficult to pronounce is, my name has no family title. Yes, you heard it right! The second name is generally reserved for the family name that is passed down from generations … and I don’t have it! My mom loves experimenting and she experimented with my name. She was once reading a poem where she encountered this word “Kislay” and she loved this word so much that she ended up replacing it with my family title. The meaning of “Kislay” in Sanskrit is “the state of a bud when it is about to bloom”. You can get a feel about how much influence my mom had on me straight from my birth and my name.
+
+Speaking about influences, I cannot leave my dad behind. He is a Civil engineer and I grew up with him and Mom in multiple cities in the northern part of India. Because of the nature of job of my Dad, he used to get transfers to new cities every 1 to 2 years. It was so severe that by the time I started my undergraduate university, I had changed 8 schools! -- My mom use to remark then that we were like nomads: “always trying to settle just enough so that moving on was easy”. -- Not too much, nor too less. -- . However, this was not easy for me. Everytime my dad transferred to a new city, I had to change schools, hence I had to leave my old friends and make new ones again and again. But by doing this repeatedly, I had the biggest realization of my life. Eventually I learnt that impermanence is the truth, that nothing is permanent, that everything is temporary in nature, that everything is transient. With time people change, places change, our mentality changes -- And the way it is is the way it is for most things in life. I accepted this fact and it was a pretty amazing realization for a kid that young of an age I would say!
+
+After my schooling I went for my undergraduate university in  India. Pursued Bachelors in Electrical engineering. Got fascinated with computers. Came to USA 2 years back to pursue Masters in Computer Science. I graduated recently, like 2 weeks back.
+
+Again talking about influences, as I mentioned before about my Dad being a civil engineer but it doesn’t stop there. My grandad is a mechanical engineer! If you don’t know this, we Indians love Engineering!!! My family is filled with them and they are pure workaholics. You cannot separate work from their life. It is so much that, even though my grandpa is 79 years old, he is still working. He works 7 days a week, even on Sundays, from 7 am to 8 pm everyday. He is well past his retirement age but the owner of the company he works in is a good friend of us and he loves to see him work. In a very similar nature, these traits passed onto me!. I can’t really do anything about it, can I?  To give you a feel, I graduated 2 weeks back and still I spend at least 4 to 5 hours in university doing something. My advisor has given me a separate desk so that I can satiate my curiosity to work. We all love working!
+
+But there are other implications of over-emphasizing on work as much as I do. Recently I realized that be over-working, I am missing out on many other things in life. My interaction with my friends decreased. I socialize less with people of my age. I have no idea what is going around me. And I don’t keep myself updated about the worldly affairs that is happening. Thankfully I joined Toastmasters and I am glad I did that! I now get a chance to hear from you guys , people coming from such different backgrounds. I love to sit here and listen to the wondrous experiences and speeches. This 1 hour feels like an unwinding time for me. It pulls me out from my pigeonhole and makes me feel how big the world is! Even preparing for this icebreaker speech required me to self-inquire -- something I haven’t done for ages. I am enjoying every moment of being a toastmaster and I hope I continue to be a part of this great group.-- With this I would like to end my speech.
+
+Thank you Mr Toastmaster.

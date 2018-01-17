@@ -1,0 +1,37 @@
+---
+layout: post
+title: Getting OpenGM to work ...
+date: 2015-05-22 18:22:55.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+comments: true
+categories:
+- GSoC
+- Tech
+tags: []
+---
+<p>I had been trying hard to get accustomed with the OpenGM library so that I get to understand what are the things that I will be needing for my implementation of Approximate algorithms.</p>
+
+<p>I will jot down my findings here:</p>
+<p>Below is the most important image that will help me to write off things quite cleanly.</p>
+<p><a href="https://kislayvision.files.wordpress.com/2015/05/factor_graphs_opengm.png"><img class=" size-full wp-image-402 aligncenter" src="/images/factor_graphs_opengm.png" alt="factor_graphs_opengm" width="926" height="400" /></a></p>
+
+<p>The things that are needed by the OpenGM for completely specifying the above factor model are:</p>
+<ol>
+<li>The number of variables along with cardinality (the number of labels) of each of these. This is done by constructing an object called an <strong>Label Space.</strong></li>
+<li><strong>Functions </strong>describe the different small $latex \varphi_i$ that are used to decompose the bigger $latex \varphi$.</li>
+<li><strong>Operations </strong>can be addition, multiplication, max and min. These are the operations through which the $latex \varphi$ decomposes into $latex \varphi_i$.</li>
+<li><strong>Factors </strong>is the only missing link which connects the appropriate $latex \varphi$ with respective $latex x_v's$ intended as the inputs.</li>
+</ol>
+<p><span style="text-decoration:underline;"><strong>Writing a complete model in OpenGM using ExplicitFunctions.</strong></span></p>
+<p><a href="https://kislayvision.files.wordpress.com/2015/05/explicit_func_code_blog.png"><img class="aligncenter size-full wp-image-409" src="/images/explicit_func_code_blog.png" alt="explicit_func_code_blog" width="755" height="779" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The above one was a very primitive model. Let us make from a complete one like present below:</p>
+<p><a href="https://kislayvision.files.wordpress.com/2015/05/factor_snap.png"><img class="aligncenter size-full wp-image-418" src="/images/factor_snap.png" alt="factor_snap" width="729" height="552" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://kislayvision.files.wordpress.com/2015/05/download.jpg"><img class="aligncenter size-full wp-image-416" src="/images/download.jpg" alt="download" width="939" height="1870" /></a></p>

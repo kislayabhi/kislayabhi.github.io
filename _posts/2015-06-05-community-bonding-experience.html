@@ -1,0 +1,38 @@
+---
+layout: post
+title: Community bonding experience.
+date: 2015-06-05 18:06:00.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+comments: true
+categories:
+- GSoC
+tags: []
+---
+<p>Hi all!</p>
+<p>The community bonding period is over. I tried to start with understanding those source codes which have implemented the same class of algorithms that I am hoping to implement over the GSoC timeline.</p>
+
+<p>For me, it is Approximate inference of Probabilistic Graphic Models. OpenGM is one of the best C++ template library for discrete factor graph models and distributive operations on these models. It includes state-of-the-art optimization and inference algorithms beyond message passing.</p>
+<p>The method that I intend to implement is basically a message passing algorithm. It is called Max-product Linear Programming(MPLP) approx. inference. It was first proposed by Amir Globerson and Tommi Jaakkola in the paper "<strong>Fixing max-product: Convergent message passing algorithms for MAP LP-Relaxation</strong>" in the year 2007.</p>
+<p>I figured it out that this is going to be the 1st phase of my implementation.</p>
+<p>The whole of my timeline consists of implementing 2 more subsequent papers which are very much written in hierarchy to this one. So, I have been thinking that if this one is implemented correctly and efficiently, then extending the code for the other 2 papers will be easy.</p>
+<p>The other 2 subsequent papers are:</p>
+<ul>
+<li>
+<pre><a href="http://cs.nyu.edu/~dsontag/papers/sontag_uai08.pdf">Tightening LP Relaxations for MAP using Message Passing</a>
+  David Sontag, Talya Meltzer, Amir Globerson, Tommi Jaakkola and Yair Weiss
+  Uncertainty in Artificial Intelligence (UAI). Helsinki, Finland. 2008.</pre>
+</li>
+<li>
+<pre><a href="http://cs.nyu.edu/~dsontag/papers/sontag_uai12.pdf">Efficiently Searching for Frustrated Cycles in MAP Inference</a>.
+  David Sontag, Do Kook Choe, and Yitao Li
+  Uncertainty in Artificial Intelligence (UAI) 28. Catalina Island, United States. 2012.
+</pre>
+</li>
+</ul>
+<p>So as far as the community bonding period is concerned, my learning curve was right up. I read all the 3 papers and tried to grasp the concepts of PGM's. It came out to be not so easy and I had to fall back.</p>
+<p>I started understanding PGM's from the basics by skimming past the introductory videos on PGM from Coursera by Daphne Koller. After going over them, I tried for another read of the papers. I am now able to figure the objective quite well than the last time.</p>
+<p>From the last GSoC experience, I am very much sure that understanding is very much important before coding. I just hope I get to understand the gist of the papers and implement them well.</p>

@@ -1,0 +1,61 @@
+---
+layout: post
+title: Benchmarking OpenCV’s integration with Shogun
+date: 2014-05-29 18:17:12.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- GSoC
+tags: []
+comments: true
+---
+<p>I have made some codes for converting Mat objects from OpenCV library to CDenseFeatures object in Shogun Library. There are basically three methods of conversion.</p>
+
+<ul>
+<li>Using the for loops (i.e the manual way)</li>
+<li>Using the Memcpy command.</li>
+<li>Using constructors.</li>
+</ul>
+<p>I have enlisted here the benchmarking output for the conversion of Random matrices from Mat to CDenseFeatures. We will try to draw major conclusions based on them in the end like to choose the fastest one as the default. All the tests are done on my Local machine which is a Ubuntu 12.04 Precise.</p>
+<p>Let's start with the conversion of Mat to CDenseFeatures.</p>
+<p>For instance:  a <strong>cv::Mat</strong> object initialized randomly in <strong>CV_8U </strong>type, and converted to the following types:</p>
+<ol>
+<li>To <strong>uint8_t</strong></li>
+<li>To <strong>int8_t</strong></li>
+<li>To <strong>uint16_t</strong></li>
+<li>To <strong>int16_t</strong></li>
+<li>To <strong>int32_t</strong></li>
+<li>To <strong>float32_t</strong></li>
+<li>To <strong>float64_t</strong></li>
+</ol>
+<p>These 7 conversion are shown through sky blued bars(Different Mat types are marked in the horizontal axis label at the bottom most region of each of the chart).</p>
+<p style="margin-left:18pt;">Similarly all the orange bars marks show the conversion from <strong>CV_8S</strong> to their respective conversion output types.</p>
+<p style="margin-left:18pt;">Similarly all the green bars marks show the conversion from <strong>CV_32F</strong> to their respective conversion output types and so on....</p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin1.png" alt="" align="left" /></p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin2.png" alt="" align="left" /></p>
+<p>.................................................................................................................</p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin3.png" alt="" align="left" /></p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin4.png" alt="" align="left" /></p>
+<p>.................................................................................................................</p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin5.png" alt="" align="left" /></p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin6.png" alt="" align="left" /></p>
+<p>.................................................................................................................</p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin7.png" alt="" align="left" /></p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin8.png" alt="" align="left" /></p>
+<p style="margin-left:18pt;">Few inference that we can draw directly are</p>
+<p style="margin-left:18pt;">1. Manual methods are consistent. i.e it doesn't matter what the type of or on which other type are we converting our matrices into. It gives an approximately equal results in all of them.</p>
+<p style="margin-left:18pt;">2. Memcpy method is very very good with respect to the time taken. It is kind-off 2 times faster than the Manual method on smaller sized matrices especially for the types of uint8_t and int8_t.</p>
+<p style="margin-left:18pt;"><strong>For the back conversion, we will require the float CDenseFeatures object. And we will be converting It into different other types of Mat.<br />
+</strong></p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin9.png" alt="" align="left" /><strong><br />
+</strong></p>
+<p>.................................................................................................................</p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin10.png" alt="" align="left" /></p>
+<p>.................................................................................................................</p>
+<p style="margin-left:18pt;"><img src="/images/052914_1323_benchmarkin11.png" alt="" align="left" /></p>
+<p style="margin-left:18pt;"> Few inferences that we can draw from these 3 figures are :</p>
+<p style="margin-left:18pt;">1. We see that in the constructor method, the conversion time for converting Float64_t CDenseFeature objects into CV_64F is almost negligible. </p>
+<p style="margin-left:18pt;">2. The order in which they can be arranged are Constructor&gt; Memcpy &lt; Manual. </p></p>

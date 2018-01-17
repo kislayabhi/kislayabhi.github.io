@@ -1,0 +1,22 @@
+---
+layout: post
+title: Progress Report
+date: 2015-06-19 08:06:53.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- GSoC
+tags: []
+comments: true
+---
+<p>Continuing from my previous post on being able to understand the gist of the culmination of the 3 papers, I think I have some ideas now. Not 100% still. Being reading the papers and so much of mathematics related to it, I thought giving in to write code side by side will be good.</p>
+
+<p>This is so because too much of theory makes me feel handicapped. I mean, writing code along helps me grasp the mathematical formulations nicely. This always doesn't come along well though as there are many cases where I have no idea how to implement certain section of the paper and I move on by working out the implementation from the author's code in the hope that I get it after that section is completed. And it works, I do really understand that part. The only thing is that it is not the right way! It is cumbersome.</p>
+<p>Moreover, the implemented code written by Sontag et.al lacks proper documentation adding up my worries. Anyways, I am treading forward. Slowly but steadily. I have started writing the 1st paper in python following the C++ code and my understandings of the paper.</p>
+<p>The part that now that i have to deal is the <strong>message updating</strong> method. This forms the crux of the paper.</p>
+<p>&nbsp;</p>
+<p>This goes in the following manner. I have to read the Markov Model from the UAI file and take it in for the MAP query. Then run the update message method until we reach some convergence. For reading the model from the UAI file, I am thankful to Ankur who gladly helped me in writing a smple UAI reader so that I could focus more on the algorithm than on the other nuances. (check it out here: <a href="https://github.com/pgmpy/pgmpy/pull/411" target="_blank">pull 411</a> ).</p>
+<p>For the other part where I wrote a sample MPLP code, check out the other PR: <a href="https://github.com/pgmpy/pgmpy/pull/420" target="_blank">pull 420</a> . I really wanted to get my mentor's comments so I pushed this PR. Getting to know how much you are in water sooner or later is always helpful. I intend to grow this PR and write keep on implementing the left part.</p>

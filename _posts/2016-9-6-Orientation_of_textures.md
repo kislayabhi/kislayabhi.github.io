@@ -3,6 +3,7 @@ layout: post
 title: Finding the general orientation in textures and other repeated patterns
 published: true
 comments: true
+categories: Tech
 ---
 
 In the previous 2 weeks or so, I was working on some aerial imagery of farms. One important aspect that stands out in these images are, when you view them from such great heights, they appears as big images with repeated miniscule patterns very similar to **textures**. In my research, we intended to find the orientation of textures generated this way. I tried digging up as much as I can in various forums for finding the texture orientations. While there are numerous research papers on generating a orientation map but sadly it is difficult to reproduce that in code.

@@ -1,0 +1,19 @@
+---
+layout: post
+title: Last Progress Report
+date: 2015-08-07 05:10:54.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+comments: true
+categories:
+- GSoC
+tags: []
+---
+<p>I have successfully implemented the triplet clustering method from the 2nd paper. I am able to follow Abinash's comments this time. He also appears happy with my coding so far. The results are all cool :)</p>
+
+<p>They are 99% accurate if the convergence is fast. I am checking accuracy by comparing it against the MPLP code by Sonag. The results deviate when the number of iterations increase. This happens to be the issue I have spent my time mostly on in the last few days. The conclusion is that ... the deviation is not of the result of an algorithmic error but loss of precision in rounding off fractions. I think we can bear such inaccuracies. Very minute indeed.</p>
+<p>My next expectation is to write off a fantastic ipython notebook as a part of documentation showcasing the algorithm step by step so that a normal user doesn't have to get into cumbersome details. Another expectation is ofcourse to get the current pr( <a href="https://github.com/pgmpy/pgmpy/pull/420" target="_blank">pull 420</a> ) merged. I know that I need to implement the 3rd paper also, but I just feel that writing the proper documentation in the form of an ipython notebook and then extending the work would be a better option.</p>
+<p>Okay then. I must retire now. Bye bye</p>

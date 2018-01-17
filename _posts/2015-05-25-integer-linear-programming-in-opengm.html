@@ -1,0 +1,78 @@
+---
+layout: post
+title: Integer Linear Programming in OpenGM
+date: 2015-05-25 02:45:54.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+comments: true
+categories:
+- GSoC
+tags:
+- energy minimization problem
+- inference algorithms
+- Linear Programming
+---
+<p>Today I will be discussing some of the ways in which inference algorithms especially the Linear Programming ones work in OpenGM.<br />
+So there are many ways to solve an energy minimization problem.<br />
+From the table below we can get an idea about the different accumulative operations used to do inference:</p>
+
+<p><a href="https://kislayvision.files.wordpress.com/2015/05/word_1.png"><img class="aligncenter size-full wp-image-421" src="/images/word_1.png" alt="word_1" width="699" height="138" /></a></p>
+<p>That is, if we need to solve for energy minimization problem, we have to go for a combination of opengm::Adder and opengm::Minimizer in OpenGM to bring the same effect.</p>
+<p>Along with this, we have to choose one Inference algorithm. From OpenGM we get the list of available inference algorithms as below:</p>
+<ol>
+<li>Message Passing
+<ol>
+<li>Belief Propogation</li>
+<li>TRBP</li>
+</ol>
+</li>
+<li>TRW-S</li>
+<li>Dynamic Programming</li>
+<li>Dual Decomposition
+<ol>
+<li>Using Sub-gradient Methods</li>
+<li>Using Bundle Methods</li>
+</ol>
+</li>
+<li>A* Search</li>
+<li>(Integer) Linear Programming</li>
+<li>Graph Cuts</li>
+<li>QPBO</li>
+<li>Move Making
+<ol>
+<li>Expansion</li>
+<li>Swap</li>
+<li>Iterative Conditional Modes(ICM)</li>
+<li>Lazy Flipper</li>
+<li>LOC</li>
+</ol>
+</li>
+<li>Sampling
+<ol>
+<li>Gibbs</li>
+<li>Swendsen-Wang</li>
+</ol>
+</li>
+<li>Wrappers around other libraries
+<ol>
+<li>libDAI</li>
+<li>MRF-LIB</li>
+</ol>
+</li>
+<li>BruteForce Search</li>
+</ol>
+<p>We will be concentrating here on the ILP Relaxation problem. Lets see how it goes!</p>
+<p>Any energy minimization problem can be formulated as an (integer) linear problem. We can also sufficiently solve the problem by considering a relaxation of the original problem by relaxing the system of imequlities.</p>
+<p>The corresponding parameter class can take many optional parameters which can be used to tune the solver. The most important are the flags</p>
+<ul>
+<li>to switch to integer mode <strong>integerConstraint_</strong></li>
+<li>the number of threads that should be used <strong>numberOfThreads_</strong></li>
+<li>the verbose flag <strong>verbose_ </strong>that switches the CPLEX output on</li>
+<li>the <strong>timeLimit_ </strong>that stops the method after N seconds realtime</li>
+</ul>
+<p>&nbsp;</p>
+<p>A sample is shown below:</p>
+<p><a href="https://kislayvision.files.wordpress.com/2015/05/word_2.png"><img class="aligncenter size-full wp-image-424" src="/images/word_2.png" alt="word_2" width="1144" height="587" /></a></p>

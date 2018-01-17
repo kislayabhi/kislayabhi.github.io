@@ -3,6 +3,7 @@ layout: post
 title: Python Game using Q Learning and Tensorflow
 published: true
 comments: true
+categories: Tech
 ---
 
 I am trying a very ambitious problem in one of my Robotics Course project. The aim

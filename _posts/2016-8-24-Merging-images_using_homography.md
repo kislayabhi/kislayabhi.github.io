@@ -3,6 +3,7 @@ layout: post
 title: Generating basic Panoramas using Homographies in OpenCV
 published: true
 comments: true
+categories: Tech
 ---
 
 I got interested in Homography a few days back since it was needed for my research. So I though why not do a simple tutorial showing how to use OpenCV to generate a basic panorama.

@@ -1,0 +1,88 @@
+---
+layout: post
+title: GSoC 2015
+date: 2015-05-17 11:33:12.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+comments: true
+categories:
+- GSoC
+tags: []
+---
+<p>It had been quite an awesome thing to be selected in Google Summer of Code for the second time. Along with it, I also got an offer to pursue masters in Johns Hopkins University in Computer Science in upcoming Fall. The god has been great to me! I thank almighty for all this .</p>
+
+<p>Okay, back to work.</p>
+<p>So my project this year deals with implementing "Approximate algorithms for inference in graphical models" in the awesome org. <a href="http://pgmpy.readthedocs.org/en/latest/">pgmpy</a>. I will try to encompass everything that I have understood till now by reading various research papers and the help I had from the mentors in the form of naive questions. (I think I may need to keep the post updating. Below is what I have understood till now.)</p>
+
+<p><strong>What are graphical models? </strong></p>
+<p>A graphical model is a probabilistic model where the conditional dependencies between the random variables are specified via a graph. Graphical models provide a flexible framework for modelling large collections of variables with complex interactions.</p>
+<p>In this graphical representation, the nodes correspond to the variables in our domain, and the edges correspond to direct probabilistic interactions between them</p>
+<p>Graphical models are good in doing the following things:</p>
+<ol>
+<li>Model Representation
+<ul>
+<li>It allows tractable representation of the joint distribution.</li>
+<li>Very transparent</li>
+</ul>
+</li>
+<li>Inference
+<ul>
+<li>It facilitates answering queries using our model of the world.</li>
+<li>For example: algorithms for computing the posterior probability of some variables given the evidence on others.</li>
+<li>Say: we observe that it is night and the owl is howling. We wish to know how likely a theft is going to happen, a query that can be formally be written as P(Theft=true | Time=Night, Conditions=Owl is howling)</li>
+</ul>
+</li>
+<li>Learning
+<ul>
+<li>It facilitates the effective construction of these models by learning from data a model that provides a good approximation to our past experience</li>
+<li>They sometimes reveal surprising connections between variables and provide novel insights about a domain.</li>
+</ul>
+</li>
+</ol>
+
+<p><strong>Why we want to do inference? Ahem!! What is this "inference" actually!</strong></p>
+<p>The fundamental inference problem underlying many applications of graphical models is to find the most likely configuration of the probability distribution also called as the MAP (Maximum a Posteriori) assignment. This is what the underlying problem is while solving the stereo vision and protein design problems.</p>
+<blockquote><p><em>The graphical models that we consider involve discrete random variables. And it is known that a MAP inference can be formulated as an integer linear program.</em></p></blockquote>
+<p>There are many ways to solve the MAP inference problem namely:</p>
+<ul>
+<li><strong>Message Passing Algorithms:</strong> They solve the inference problem by passing messages along the edges of the graph that summarize each variable's beliefs. Better check Yedidia et al., 2005 paper for a gentle introduction in message propagation. However, these algorithms can have trouble converging, and in difficult inference problems tend not to give good results</li>
+<li><strong>LP Relaxation: </strong>The LP relaxation is obtained by formulating inference as an integer linear program and then relaxing the integrality constraints on the variables. (More on this later!)</li>
+</ul>
+<p>To correctly find the MAP assignment is equivalent to finding the assignment $latex x_m&amp;s=2$ that maximizes</p>
+<p style="text-align:center;">$latex \theta(x) = \Sigma_{ij \in E}\theta_{ij}(x_i, x_j)+\Sigma_{i \in V} \theta_i(x_i)&amp;s=3$</p>
+<p style="text-align:left;">To understand what the above term is, we need to delve into the theory of pairwise Markov Random Fields. For the moment being, think of $latex \theta_{ij}&amp;s=2$ as the edge potential and $latex \theta_{i}&amp;s=2$ as the vertex potential.</p>
+<p style="text-align:left;">To turn the above into an <strong>integer linear program( ILP )</strong>, we introduces variables</p>
+<ol>
+<li style="text-align:left;">$latex \mu_i(x_i)&amp;s=1$, one for each $latex i \in V&amp;s=1$ and state $latex x_i&amp;s=1$</li>
+<li style="text-align:left;">$latex \mu_{ij}(x_i, x_j)&amp;s=1$, one for each edge $latex ij \in E&amp;s=1$ and pair of states $latex x_i, x_j&amp;s=1$</li>
+</ol>
+<p>The objective function is then:</p>
+<p style="text-align:center;">$latex \max_{\mu} \Sigma_{i \in V}\Sigma_{x_i}\theta_{i}(x_i) \mu_i(x_i)+\Sigma_{ij \in E}\Sigma_{x_i, x_j}\theta_{ij}(x_i, x_j) \mu_{ij}(x_i, x_j)&amp;s=3$</p>
+<p>&nbsp;</p>
+<p>The set of $latex \mu&amp;s=1$ that arises from such joint distributions is known as the marginal polytope. There always exist a maximizing $latex \mu&amp;s=1$ that is integral- a vertex of the marginal polytope - and which corresponds to $latex x_m&amp;s=1$</p>
+<p>Although the number of variables in this LP is less, the difficulty comes from an exponential number of  linear inequalities typically required to describe the marginal polytope.</p>
+<p>The idea in LP relaxations is to relax the difficult global constraint that the marginals in $latex \mu$ arise from some common joint distribution. Instead we enforce this only over some subsets of variables that we refer to as clusters.</p>
+<p><strong>But what are constraints? How come you can use constraints and clusters interchangeably? </strong></p>
+<p>What constraint is to Marginal Polytope is clusters to the primal LP problem.</p>
+<p>So essentially, we here force every "cluster" of variables to choose a local assignment instead of enforcing that these local assignments are globally consistent. Had these local assignments been consistent globally, we would have the complete Marginal Polytope already.</p>
+<p>We slowly and steadily add each of the clusters so that we tend towards the Marginal Polytope.</p>
+<p>I am attaching few slides that I have found really useful in this case:</p>
+<p><a href="https://kislayvision.files.wordpress.com/2015/05/sontag_1.png"><img class="aligncenter wp-image-381 size-full" src="/images/sontag_1.png" alt="sontag_1" width="877" height="626" /></a></p>
+<p><a href="https://kislayvision.files.wordpress.com/2015/05/sontag_2.png"><img class="aligncenter wp-image-380 size-full" src="/images/sontag_2.png" alt="sontag_2" width="882" height="631" /></a> <a href="https://kislayvision.files.wordpress.com/2015/05/sontag_3.png"><img class="aligncenter wp-image-379 size-full" src="/images/sontag_3.png" alt="sontag_3" width="886" height="642" /></a> <a href="https://kislayvision.files.wordpress.com/2015/05/sontag_4.png"><img class="aligncenter wp-image-378 size-full" src="/images/sontag_4.png" alt="sontag_4" width="884" height="633" /></a></p>
+<p>&nbsp;</p>
+<p>Through LP relaxation we solve for the case where the fewer clusters were assigned the local assignment( The local consistency polytope).The solution to this gives us the equation mentioned in the last above.</p>
+<p><strong>Why we need approximate algorithms? Is there any other way to do it like exact ones? If exact ones are there, why not use them!!</strong></p>
+<p>Solving for the marginal polytope gets too heavy. I will showcase the process in the form of some other slides that I really found useful.</p>
+<p><a href="https://kislayvision.files.wordpress.com/2015/05/sontag_a.png"><img class=" wp-image-391 size-full aligncenter" src="/images/sontag_a.png" alt="sontag_a" width="557" height="243" /></a> <a href="https://kislayvision.files.wordpress.com/2015/05/sontag_b.png"><img class=" wp-image-390 size-full aligncenter" src="/images/sontag_b.png" alt="sontag_b" width="912" height="468" /></a> <a href="https://kislayvision.files.wordpress.com/2015/05/sontag_c.png"><img class=" wp-image-389 size-full aligncenter" src="/images/sontag_c.png" alt="sontag_c" width="935" height="652" /></a> <a href="https://kislayvision.files.wordpress.com/2015/05/sontag_e.png"><img class="aligncenter wp-image-388 size-full" src="/images/sontag_e.png" alt="sontag_e" width="953" height="684" /></a> <a href="https://kislayvision.files.wordpress.com/2015/05/sontag_f.png"><img class=" wp-image-387 size-full aligncenter" src="/images/sontag_f.png" alt="sontag_f" width="925" height="651" /></a> <a href="https://kislayvision.files.wordpress.com/2015/05/sontag_g.png"><img class=" wp-image-386 size-full aligncenter" src="/images/sontag_g.png" alt="sontag_g" width="922" height="646" /></a> <a href="https://kislayvision.files.wordpress.com/2015/05/sontag_h.png"><img class=" wp-image-385 size-full aligncenter" src="/images/sontag_h.png" alt="sontag_h" width="930" height="679" /></a> <a href="https://kislayvision.files.wordpress.com/2015/05/sontag_i.png"><img class=" wp-image-384 size-full aligncenter" src="/images/sontag_i.png" alt="sontag_i" width="915" height="676" /></a> <a href="https://kislayvision.files.wordpress.com/2015/05/sontag_k.png"><img class=" wp-image-383 size-full aligncenter" src="/images/sontag_k.png" alt="sontag_k" width="944" height="667" /></a></p>
+<p><strong>What are the types of approximate algorithms that you are going to implement? Are there many types? </strong></p>
+<p>LP Relaxation is the obvious one that is my target here. The other one above where I have added constraints to the marginal polytope is called the cutting plane method ( It happens to be a specific algorithm used in LP Relaxations to tend towards the MAP polytope)</p>
+<p><strong>Please describe step by step process of these algorithms. How does approximations helps when accuracy is concerned. Tell about the trade-offs that happen between accuracy and speed!</strong></p>
+<p>*I will get onto it soon*</p>
+<p><b>Do previous implementation of what you are going to do already exists? If they, how you plan to make your implementation different from them. Is the language different?</b></p>
+<p>I think they do exist in OpenGM library. I will surely take inspiration out of it. Yup, It is in C++ and we were to make our implementation in Python.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>YOU MUST CHECK OUT THE AWESOME LIBRARY I AM WORKING WITH:  <a href="http://pgmpy.readthedocs.org/en/latest/">Pgmpy</a></p>

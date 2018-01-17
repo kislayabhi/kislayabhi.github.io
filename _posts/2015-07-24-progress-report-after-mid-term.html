@@ -1,0 +1,25 @@
+---
+layout: post
+title: Progress report after mid-term
+date: 2015-07-24 23:41:02.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- GSoC
+tags: []
+comments: true
+---
+<p>Woah! I am enjoying every bit of coding now. I have figured out the whole algorithm from the basics! I had been a fool all the time :) . Though I still think that the current understanding couldn't have been possible if I didn't made all the mistakes! So Thumbs Up!</p>
+
+<p>Spending time with the exact inference codes that are already implemented in the pgmpy library along with the meticulous reading of those algorithms from Koller PGM book helped me enormously. The Variable elimination and the Belief-propagation methods are really cool for the beginners if they want to jump onto Approximate inference!</p>
+<p>The messages are nothing but the Factor data-structures of the pgmpy library. Gosh! I never knew that. I am happy to understand how to inject the current implementation of the Mplp code into the library. My status is that I have completely reworked the 1st paper into pythonic class-oriented code. It is working awesome with some of the example UAI files that are present here: <a href="http://www.cs.huji.ac.il/project/PASCAL/showExample.php" target="_blank">PASCAL examples</a> .</p>
+<p>I am biting my fingers to finish off the coding as it has been so interesting to code now I know what the algorithm meant!</p>
+<p>Check out my new PR: <a href="https://github.com/pgmpy/pgmpy/pull/449" target="_blank">pull 449</a></p>
+<p>I hope you notice improvements there.</p>
+<p>As far as the road-blocks are concerned...they seem to never leave me at all. After implementing the 1st paper two times (I hope you remember the old crude implementation), I got to know that Sontag later modified it in his PHD thesis a bit from (the original one in the Fixing-Max Product 2007 paper) that I implemented.  The new one is as follows:</p>
+<p><img class="aligncenter" src="{{ site.baseurl }}/assets/877b3032-2d8b-11e5-8353-56d2b013769c.png" alt="" /><br />
+Of the set of 3 papers, the Later 2 papers are written by Sontag along with the cpp code so I had the intention of changing the code. Though this part was trivial but still counts as a road-block!</p>
+<p>The next thing to expect from my side is to add the Triplet clustering code. Till then, bye bye.</p>
