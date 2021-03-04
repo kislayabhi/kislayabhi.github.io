@@ -28,8 +28,8 @@ Prathibhasika; apparent world of errors delusions etc.
 Rope --> vyavharika
 Snake --> Prathibhasika
 
-In Parinama, the cause and effect are on the same level of reality.
-In Vivarta, the cause is on a higher level of reality.
+In Parinama, the cause and effect are on the same level of reality. The cause actually turns into effect in reality.
+In Vivarta, the cause is on a higher level of reality. The cause appeare as something else, but not in reality.
 
 because this universe is a vivarta of universe, Brahman is on a higher level of reality. And its appeareacen -- this world is a vyavhaharika satya. Thus these two apparent levels can be dissolved by the correction effected by Knowledge. This realization of the effect that it is nothing but the cause -- it is possible only for the vivarta. If it had been a real world, then no amount of vedantic enquiry will help a person. By knowledge one can become free.
 
