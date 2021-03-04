@@ -43,4 +43,6 @@ Verse 140: All these 5 elements which makes this physical world + 17(or 19) subt
 
 Verse 141: The five subtle elements together with Satva, Rajas, Tamas are nothing but maya with Brahman. Maya + Brahman == God. Agnana Upahita Chitanyam.
 
-Verse 142: This Ishwara is nothing other than the Ultimate Reality except Maya. Consciousness not associated with Maya == Turiyam. Turiya is the ultimate reality -- Unlimited Existence-Consciousness-Bliss which is You! 
+Verse 142: This Ishwara is nothing other than the Ultimate Reality except Maya. Consciousness not associated with Maya == Turiyam. Turiya is the ultimate reality -- Unlimited Existence-Consciousness-Bliss which is You!
+
+This is the end of superimposition and desuperimposition. Now starts Vedanta. That Thou Art! Now we are ready to understand the REAL VEDANTA as we now dive into understanding what it means when it is said -- "That thou art".
