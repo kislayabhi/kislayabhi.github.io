@@ -102,7 +102,8 @@ If the screen is not forcing the movie to run -- then who is making it play -- b
 * Once we ask sw ranganathanandaji -- he tried to explain -- he said it is right here. It is underlying -- is the reality of body-movie. Just like screen is underlying the movie, the reality of the movie..
 * The very nature of the Brahman, the svabhava is to keep the movie ongoing.
 * Question: "The movie is necessary in order for us to gain enlightenment." --> Two truths taught by the  Buddha. Without taking the help of the relative truth, one can't go to the Absolute Truth. Movie is very important to Enlightenment.
-* Person - the connection between the reality and power. Freedom of will is an oxymoron -- it is in causation. 
+* Person - the connection between the reality and power. Freedom of will is an oxymoron -- it is in causation. Our only problem is we are not able to distinguish between screen and movie and thus the movie suddenly appears Really real. What is in and through of this -- we are not able to see and discern -- is the screen. The movie is glorious, Give it an Oscar! Basically you are asking WHY MAYA?
+*  END!
 
 
 
