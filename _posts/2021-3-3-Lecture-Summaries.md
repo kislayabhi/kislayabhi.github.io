@@ -107,3 +107,27 @@ If the screen is not forcing the movie to run -- then who is making it play -- b
 
 
 
+## Dristi Sriti Vada - prof timalsena
+
+The story between the king Ajatashatru and his teacher -- when happens when the mind is not dreaming or imagining then what happens in deep sleep when mind goes back to its primordial cause. Not idealism -- from the perspective of Br.Upa /kaushiki. There is no bed when you are in deep sleep state -- no money, no women etc. And when world starts appearing then they come back.
+
+How do we congnize things? In the mode of causation -- how do we congnize the reality.
+
+Two models
+1. Parinama: clay to pot 
+2. Emergance: Something you can't reduce back -- a magical new thing emerges out of -- charvaka -- they didn't believe of afterlife/Atman etc. No instrumentality of Ishwara.
+
+Dristi Sristhi Vada: lump to pot, Gold to jewels -- it is just our evaluation of the thing has changed. -- when a person becomes the president.
+
+Dravidacharya - He gives an example of tribesman, there was a kingdom where the king died and prince somehow survived. He then grows up with tribesman. Then when the minister went to him 18 years later, and he greets him as the Royal heir -- he laughs.
+
+He always had been the prince -- he just doubts and behaves like tribesman -- but slowly he accepts and changes into that -- in the same way but he was always royal -- there had never been actual change -- Is there any alteration with Brahman as such? -- When Swamiji says Timalsena you are Brahman -- I say Give me a breakkk! -- It becomes difficult for us to understand and accept reality.
+
+
+When someone reads Advaita scholarly -- then there are competiting models -- Geeta is a rethinking of the philosophy - organizing it - thinking and rethinking etc
+1. Ajatavada(Gaudapada) : There is no genesis (jati). Nothiing is born. (There is nothing to born, empty - madhyamika ) -- No deviation (upanishada)
+2. Abhasavada : Always a common term in Trika Siddhanta
+3. Pratibimbba :  
+4. Avchechadevada : 
+
+Madhhusudan explains Dristi Sriti in AdvaitaSiddi -- There are couple of things to take home -- Absolute non-modified Consciousness -- not for beginners -- people jump to vasubandu -- We need time to say permanent or momentary -- if you are in timeless reality then how can you think about permanence or impermancence. The idea is not so much about is consciousness is permanent or impermanent. we are not bounnd to have always the sense of time in consciousness -- while watching a movie I don't think aobut time or when in deep sleep -- or if you have meditated -- samadhi -- then you don't have time knowledge in it -- what we are really talking about is how do i know what i know? -- Vidyaranya speaks -- what is ignorance? -- Anarvachinaya -- we are not talking about what is the reality of bbase of what appears in illusion. -- how can the same Maya can manifest in so many ways -- citing from sarvagyaatmuni -- once advaita vedanta 
