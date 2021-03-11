@@ -229,4 +229,9 @@ Then we say that we agree, but in "TTT", the meaning doesn't come out. "This is 
 
 
 
-150 = Naishkarmaya Siddi == sureshwaracharya == vartikacharya = 
+150 = Naishkarmaya Siddi == sureshwaracharya == vartikacharya.
+
+
+QnA
+
+1. Pranaams Maharaj. The 2nd problem of adjectival relationship feels the subtlest. That Devadutta pointer seems like the way of "Neti Neti" where the "Devadutta of Mumbai" == "Devadutta of Manhattan" by disregarding (neti) the un-necessary stuff. (next week)
