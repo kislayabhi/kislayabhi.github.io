@@ -130,4 +130,103 @@ When someone reads Advaita scholarly -- then there are competiting models -- Gee
 3. Pratibimbba :  
 4. Avchechadevada : 
 
-Madhhusudan explains Dristi Sriti in AdvaitaSiddi -- There are couple of things to take home -- Absolute non-modified Consciousness -- not for beginners -- people jump to vasubandu -- We need time to say permanent or momentary -- if you are in timeless reality then how can you think about permanence or impermancence. The idea is not so much about is consciousness is permanent or impermanent. we are not bounnd to have always the sense of time in consciousness -- while watching a movie I don't think aobut time or when in deep sleep -- or if you have meditated -- samadhi -- then you don't have time knowledge in it -- what we are really talking about is how do i know what i know? -- Vidyaranya speaks -- what is ignorance? -- Anarvachinaya -- we are not talking about what is the reality of bbase of what appears in illusion. -- how can the same Maya can manifest in so many ways -- citing from sarvagyaatmuni -- once advaita vedanta 
+Madhhusudan explains Dristi Sriti in AdvaitaSiddi -- There are couple of things to take home -- Absolute non-modified Consciousness -- not for beginners -- people jump to vasubandu -- We need time to say permanent or momentary -- if you are in timeless reality then how can you think about permanence or impermancence. The idea is not so much about is consciousness is permanent or impermanent. we are not bounnd to have always the sense of time in consciousness -- while watching a movie I don't think aobut time or when in deep sleep -- or if you have meditated -- samadhi -- then you don't have time knowledge in it -- what we are really talking about is how do i know what i know? -- Vidyaranya speaks -- what is ignorance? -- Anarvachinaya -- we are not talking about what is the reality of bbase of what appears in illusion. -- how can the same Maya can manifest in so many ways -- citing from sarvagyaatmuni -- once advaita vedanta.
+
+
+
+
+### VedantaSara: Wed March 10 2021
+
+Niranjan Shah: Easy thesis by Madhusudan Saraswati on Gita
+
+I take refuge in the Self, the substratum of all in the fullfillment of my cherished desire.
+
+Text 143: By this process of superimposition and desuperimposition one understand what is "Thou" and what is "That". The analysis of the great Mahavakya "That Thou Art". Very important section in VedantaSara.
+
+It is a way of correcting the error that one has unthinkingly made. There is this Ultimate Reality which is mistaken as the present experience of the Universe -- this is snake born out of rope. Because of dwelling in this Falsity is the reason of our suffering. The goal of AV is to overcome suffering and for that we have to correct this error. So called Universe is nothing but Brahman and this is de-superimposition and this has been accomplished previously.
+
+donkey story, princess of kashi story -- example of desuperimposition.
+
+Mahavakyas are used to summarize the teachings of Upanishads
+
+1. Tat tvam Asi
+2. Prag Brahma
+3. Aham Brahmasmi
+4. Ayamatma Brahma
+
+They talk about the identity of the Saguna Brahmana and Jeev.
+
+Brahman is the Reality, the world is an appeareance. And You are Brahman.
+
+The claim which is made around here is that "You are Brahman"!. Right now we are doing a big-big mistake. To correct an error one has to get Knowledge. And knowledge is gotten by enquiry. It is not a problem by sin rather it is a problem of ignorance -- we should seek knowledge in spiritual life not bhakti and selfless service etc. 
+
+Shravana, and thinking about them deeply and then getting clarity and then realizing it in one's own life. It is not about if you have colleges, school, patents, devotion etc. They all play a secondary role, and they prepare us for realization. The huge radical implications this has for our spiritual life.
+
+He says all the exerices we went through to understand superimposition and de-superimposition will help us understand "That", "Thou" and the identity between these two. In a traditional way, this is hermenutics.
+
+But 1st of all,  what do you mean by all that we have studied so far will help us in understanding the mahavakya. 
+
+Almost the rest of the book is Enquiry into the meaning of That Thou Art.
+
+
+Text 144: what is the meaning of "That". Consider the example he gives about the red hot iron ball. A ball of iron that is heated up and is glowing. In that there exists two things : The iron ball + fire. It glows because of the fire and it is round/heavy because of the ball/iron nature. 
+
+"That" here means Maya and all the products of the Maya.
+Consciousness associated with Maya == God (Ishwara)/ Hiranyagarpha/ Vishwarupa (or Virata).
+
+
+"That" = Advaitam_Brahman(Nirguna Brahman) + Maya + Consciousness associated with Maya (Saguna Brahman).
+
+That = Rope + Snake + Rope appearing as the Snake.
+
+
+text 145 =  The above was the direct meaning of That. Now we will study about the implied meaning of the term That.
+
+the direct meaning was three things.
+the implied meaning is just Nirguna Brahman i.e only Pure Consciousness.
+it is like saying -- when you see the snake then there are three things - the original rope, the snake born out of ignorance .. but if you look at the implied meaning it is just rope.
+
+
+146 = direct meaning of "Thou" == It refers to ignorance etc (C. body/ S. body/ P. body). Consciousness assciated with these three bodies == Jeev. It is talking about us! This ego of Swami Sarvapriyananda associated with this mind and this body == "Thou". This simple person.
+
+
+Direct meaning of "Thou" = pure consciousness + consciousness associated with body-mind + body-mind
+
+
+147 = The implied meaning of Thou is pure consciousness. The ONE CONS. that appears as the dreamer, waker and deep_sleeper. The 4th. Ananda! whose nature is Bliss. This is the implied meaning of Thou!
+
+
+we are ready now! A huge system has been built up. Now we are going into linguistics and grammar as we are dealing now with a sentence. And this is the one taken in traditional adv vedanta. i know of this one gentleman who was disciple of S. Prabhavananda ji he took his name as "that thou art", haha! Someday we will read this in Chand Upanishad in its natural habitat.
+
+
+
+148 = Now is being described the great Vedic dictum of Mahavakya. This is the central teaching of Ad Vedanta. We want to remove the ignorance which has created this superimposition. This is the central spiritual practise of Advaita Vedanta. hear and reflect and meditate.
+
+This sentence, with the three relationships, reveals the Undivided Reality. This is the definition of Mahavakya. Usually Jeev Ishwara identity is quoted as the oneness but this is more clearer here. The One-ness of the universe. In order to understand the Mahavakya, we have to go through three steps:
+
+
+149 = The names of the three relationships. The 1st name is the property of having same substratum. Then adjectival relationship and then the implied meaning.
+
+
+you will understand then only a very clear understanding about this.
+
+
+The 1st one is = samana adhikarana. First lets understand the question itself. A sentence is a collection of words in a particular relationships. Then these words means something like "I have a pen and a book" == pen is a work which means this object. book is a word which means this object. Thus a word is a referent and its reference is the object. There is a word "I" which reference myself. "have" shows relationships. If you have a sentence, different words means different things. Which means a sentence always has to point to duality. because a sentence includes many words which means many things (locus of a word) -- which implies no-oneness which is basically Duality. A classical example would be: A boy is bringing a cow by a stick. boy, stick, cow and bringing == they all mean different things. A sentence which has multiple locii. 
+
+
+Now at this point a non-dualist(us) will point out == there are sentences which point to the same thing. I have a black refill pen. All the words in this sentence refer to the same locus, the same object! When we salute Vishnu using 1000 names, they all refer to the same locus, just in different ways. They have many many words but they all point to the same locus == now this is the meaning of samana adhikaranan. And our claim is "That thou art" is this kind of sentence. Many words but same locus. Classical example is "Blue Lotus". Both "blue" and "lotus" refers to the same thing.
+
+Thou your sentences have many words, it refers to the same referrant.
+
+
+Now the 2nd problem that comes now is: In "Blue Lotus" you refer to the same thing, but blue and lotus are not the same thing. blue is a color and lotus is a substance. blue is a quality. qualities and substance are not the same thing. They are intimately connected. the posseser of the quality and the quality. Adjective and noun are intertwined. Thus "That thou art" though is referring to the same "compound object" which has a Oneness qualified by many many qualities. VISHISTA-Advaita! There is an underlying unity -- you are right but it has qualities.
+
+
+Then we say that we agree, but in "TTT", the meaning doesn't come out. "This is that Devadutta". That devadutta that I saw 30 yrs back is whom I am seeing right now. That devadutta that I saw in Mumbai is whom I am seeing right now in Mumbai. Here both are the same Devadutta! we disregard many aspects and claim it is the same entity. It is not like Blue Lotus. Thus you have to take the implied meaning. For that you go the 3rd relationship.
+
+
+3rd == it is not that language is directly revealing Brahman. It is a pointer. It is definitely beyond language but not beyond the strategies employed in Upanishads. Implied
+
+
+
+150 = Naishkarmaya Siddi == sureshwaracharya == vartikacharya = 
