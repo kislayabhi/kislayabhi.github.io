@@ -235,3 +235,46 @@ Then we say that we agree, but in "TTT", the meaning doesn't come out. "This is 
 QnA
 
 1. Pranaams Maharaj. The 2nd problem of adjectival relationship feels the subtlest. That Devadutta pointer seems like the way of "Neti Neti" where the "Devadutta of Mumbai" == "Devadutta of Manhattan" by disregarding (neti) the un-necessary stuff. (next week)
+
+
+
+Bhagavad Geeta
+
+verse 15
+
+When we say "I", it means phy,sub and causal body along with reflected consciousness. Unselfish action, devotion and concentration on the forms of God -- and in all those the identity with body and mind is not broken in there. One becomes a seeker. After which one comes to Jnana Yoga, which tells that you are this background awareness and shines in and through it and enables the body mind to carry out its activities.
+
+In our study of a.v, a profound shift of what we call as "I" will come -- that it transcends the three bodies. Then there is an actual moment of breakthrough. The I which was earlier referring to this body mind complex now means something which is completely different. If I am this Consciousness, the body-mind are not totally separate, they all depend upon Atman for Existence. Satta Sfurti. You lend illumination to the body mind intellect.
+
+This Consciousness is not the body. The disease, death of body won't worry anymore as it becomes obvious. The ups and downs of the mind -- enthusiasm, depression, elation are not your ups and downs. This becomes clear. This breakthrough solves the problem of Samsara for you. Then Vedanta reveals to you that this same Atma is shining through all these numerous beings. Consciousness is not only beyond body-mind, it is not affected by body-mind and rather remains unaffected by the destruction of the Universe too. The screen is perfectly okay with the switching off the movie.
+
+All actions are performed only because It(You the Atman) exists, still It doesn't do anything. This Atman doesn't enjoy the good deeds not suffers the bad deeds. This is the Shiv nature which you are. Thus You can honestly say, as Atman, neither you do any work not take any results out of it. You enable all of it, yet You are none of it. At the level of the movie, karma operates. But not at the level of the Screen.
+
+
+That I am pure consciousness is hidden up from me. These animals are deluded because we don't know ourselves as Pure Consciousness. So this body-mind is seriously limited and thus all their problems become overlaid to us and we get caught in that wheel of action. For ignorance, the solution is in Knowledge. This Atma Vidya you get by Shravana Mananda Nidhidyasana. This body mind is a unique kind of animal in which you can get Enlightenment.
+
+verse 16
+
+Those who prepare themselves with the 4 fold qualifications, a dispassion for the Non Eternal and a seeking towards the Eternal, Inner quietitude, Toughness and to see it through the end, Swami Turiyanandaji always used to take one thing and complete it through to the end. Titiksha. Uparati -- A withdrawal from too many wordly enjoyments. Focus on Vedantic study, meditation and reflection -- then Shraddha -- that all this is taking you towards somewhere.
+
+
+
+verse 17
+
+Two interpretations: advanced version and the general one. The advanced version is when you have almomst gotten it. To make it more clear.
+
+Adv: If you already have the breakthrough -- that clarity. What remains for you now is JeevanMukti and VidehiMukti. JeevanMukti: As long as this body lasts, I know I am NOT the body. The movie is still playing. How do I keep my mind on the Screen as the movie is on-going. The whole purpose of Vedanta is to reach this state. And when the body drops-off by its natural progressions, you get Videha-Mukti.
+
+Jeevan-Mukti 4 stages. (this applies very well to a monk). The whole idea of a monk is to prepare for this. After you make the Breakthrough,then also you can take Sannyasa. To express the Knowledge.
+
+4 practises:
+
+1. The knowledge to see Brahman everywhere, in every action everywhere. Vividly. Brahma Arpanam .. In every action you are doing -- the car you are driving, the spoon which you are using for eating, the person who are driving the car with -- Is there not a sense of isness? Yes it is! Spoon IS, Rock IS etc. You notice them as bare presence. It is not that, waves have water. It is a mass of water which appears as all these waves. It is illogical to think about things as existence. Existence is the Reality on which you impose qualities. We say chair exists -- vedanta would say -- Existance chair. Everything you see is Existence overlayed with names and forms. Existence is appearing as the ladle, the ghee, the fire etc. (know Existence == Consciousness. consciousness is not just in your Mind, that is reflected consciousness). The clay in the pot choicelessly blazes forth. You just have to note Existence. First it exist and then we color it good and bad. This is everywhere with everything.
+2. It is not just Existence eveywhere is I! All these objects and person are in Me,I, the Existence. I am Presence. I am Existence. The I is always lit up -- so it is being awareness (Existence Awareness). This Existence Awareness is everywhere. Which wave in the ocean sets demarcation between water. This seamlessly one entity is You. One Entity. Infinite Existence Consciousness is You, I am That.
+3. As far as possible, give up all other activities and just dwell on This Truth alone. Swami Turiyananda ji, what a life he lead. Extraordinarily austere life. What was he doing? For 23 hours you are a king and 1 hour you have to beg for your food so a begger. At one point of time, he spend his all time in Upanishads, meditation, japam and repeat all of themm in a cycle. Then he thought, why sleep. Meditation at the level of Samadhi is very restful. The rest of the day, he used for studying, meditation etc. And then he pushed more and then he didn't sleep for a week. Then he practised sleep. Completely dependent on Brahman and nothing else. 
+4. There are certain activities that you can't give up. You have to go to Ganga once a while. Some classes on Vedanta etc. You have to connect all those activities to Brahman. The mind must be focused. You must NOTICE Brahman, the Ultimate Reality in every Vritti is Brahman. And especially a budy monk or a busy person in the world, then they HAVE TO CONVERT EVERY VRITTI WITH BRAHMAN. NOTHING SHOULD BRING YOU BACK TO THIS BODY-MIND AWARENESS. SEEING EXISTENCE EVERYWHERE. I AM THAT BRAHMAN. THEN IT BECOMES EXISTENEVE CONSCIOUSNESS. THEN TAKE EXCLUSIVE CARE TO STAY IMMERSED IN IT. SPEND TIME EVERYDAY ON IT. EXCLUSIVELY STAY AT IT. AND ANYTHING THAT YOU DO APART FROM THAT MUST BE SHINING/CONNECTED WITH BRAHMAN.
+
+
+The general interpretation now is given by Madhusudan S. The advanced practise is given by Sw. Shankarananda. 
+
+general interpretation: start with the end. make up your mind that my goal is God Realization. I have dispassion for the world. My goal is God realization. Step 2: now become dedicated to Vedanta, listen and take notes. Stay with it. Not only is it my Goal, I am doing something about it. Then comes Nidhidhyasana. Then comes Jnana, this will come.
