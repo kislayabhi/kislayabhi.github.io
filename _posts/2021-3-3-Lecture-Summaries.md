@@ -234,7 +234,7 @@ Then we say that we agree, but in "TTT", the meaning doesn't come out. "This is 
 
 QnA
 
-1. Pranaams Maharaj. The 2nd problem of adjectival relationship feels the subtlest. That Devadutta pointer seems like the way of "Neti Neti" where the "Devadutta of Mumbai" == "Devadutta of Manhattan" by disregarding (neti) the un-necessary stuff. (next week)
+1. Pranaams Maharaj. The 2nd problem of adjectival relationship feels the subtlest. The Devadutta pointer is like the way of "Neti Neti" where the "Devadutta of Mumbai" == "Devadutta of Manhattan" by disregarding (neti) the un-necessary stuff. (next week)
 
 
 
@@ -278,3 +278,19 @@ Jeevan-Mukti 4 stages. (this applies very well to a monk). The whole idea of a m
 The general interpretation now is given by Madhusudan S. The advanced practise is given by Sw. Shankarananda. 
 
 general interpretation: start with the end. make up your mind that my goal is God Realization. I have dispassion for the world. My goal is God realization. Step 2: now become dedicated to Vedanta, listen and take notes. Stay with it. Not only is it my Goal, I am doing something about it. Then comes Nidhidhyasana. Then comes Jnana, this will come.
+
+
+
+### Vedantasara 16th march
+
+Analysing tat twam asi
+
+1. Blue Lotus refers to the same object -- samanadhikaran -- relationship bw two words. Two words having the same locus. The 1st relationship is in the example this is that devadutta. so in this sentence, that and this refers to the same devadutta.
+2. Adjectival relationship -- the words and the meanings of that word. blue means a color and lotus means an object. They have a qualitative relationships between them. Adjective and noun. Color is in that flower.
+
+
+- God is all powerful but the existence is doubtful
+- Our existence is real for us but we are suffering and weak.
+- Tat twam asi add existence to God and takes powerfulness from God to us. Infinitude of God and certitude of my Existence == Brahman - So sublime!
+
+Arindam Chakraborti -- This is mystery. Ultimately the "I" is always singular. You always mean one thing. But when you say I it only refers to one thing. And God is singular. That is the great insight of monotheism. There is only one reality called God. The universe is also singular. Whatever is real is called altogether the Universe. There is only One Universe. There is only One God. There is only one I. Is it possible that One Universe == One God == one I? Yeaah, the same Brahman is appearing as the Jeev, Jagat and Ishwara. That is what existence consciousness bliss that we normally call
