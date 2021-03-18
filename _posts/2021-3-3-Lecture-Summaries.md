@@ -291,6 +291,7 @@ Analysing tat twam asi
 
 - God is all powerful but the existence is doubtful
 - Our existence is real for us but we are suffering and weak.
-- Tat twam asi add existence to God and takes powerfulness from God to us. Infinitude of God and certitude of my Existence == Brahman - So sublime!
+- Tat twam asi add existence to God and takes powerfulness from God to us.
+- ** Infinitude of God and certitude of my Existence == Brahman - So sublime! **
 
 Arindam Chakraborti -- This is mystery. Ultimately the "I" is always singular. You always mean one thing. But when you say I it only refers to one thing. And God is singular. That is the great insight of monotheism. There is only one reality called God. The universe is also singular. Whatever is real is called altogether the Universe. There is only One Universe. There is only One God. There is only one I. Is it possible that One Universe == One God == one I? Yeaah, the same Brahman is appearing as the Jeev, Jagat and Ishwara. That is what existence consciousness bliss that we normally call
