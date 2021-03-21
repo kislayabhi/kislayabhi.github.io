@@ -295,3 +295,23 @@ Analysing tat twam asi
 - ** Infinitude of God and certitude of my Existence == Brahman - So sublime! **
 
 Arindam Chakraborti -- This is mystery. Ultimately the "I" is always singular. You always mean one thing. But when you say I it only refers to one thing. And God is singular. That is the great insight of monotheism. There is only one reality called God. The universe is also singular. Whatever is real is called altogether the Universe. There is only One Universe. There is only One God. There is only one I. Is it possible that One Universe == One God == one I? Yeaah, the same Brahman is appearing as the Jeev, Jagat and Ishwara. That is what existence consciousness bliss that we normally call
+
+
+
+### Bhagavada Gita 18th March
+
+Knowledge is compared to a blazing sun - which removes all darkness. Just like it removes all the darkness in daylight. That person will realize that I am Brahman and the world is a image of Brahman. 16th verse Sri Krisha tells how to get this Knowledge. You must make up your mind that I will become Enlightened. Whatever be our goal in our life -- family, science etc -- basically we are aiming at fullfillment. We want to overcome suffering which is a fundamental question the solution to which we are seeking in this life. Consciously knowingly making up your mind that the goal of my life is God. Mah.Gandi says that people think I am a political person etc etc but I am a seeker towards God.
+
+Search for God in any form -- not just making up your mind but acting upto that -- turning up for class and reading about it and getting clarity and conviction towards these teachings. And after getting clarity -- develop conviction.
+
+The result of "Aham Brahmasmi" will come. Ethical and disciplined life, then shravana manana nid then breakthrough comes. When you have that breakthrough, then all this amounts to making that knowlege stable. You stay with that knowledge and keep pouring yourself in it and in every activity you should see Brahman. Your life should be a quest towards Enlightenment. Sri Krishna's great insight here is that you don't need to become a monk for this. Greatest example is Gandhiji.
+
+verse 18 -- so when the enlightenment comes -- it is actually a negation. What "I am" is actually "intuitively realized" , what is realized is a negation of Avidya. 
+
+Even ego can be experienced as an object of your awareness. We must be the constant awareness which is revealed by this constant awareness. This Awareness doesn't stick, it is immortal since it dones't come and go. This is the meaning of Aatma. The second big thing, this consciousness we discover -- is this separate for separate beings or One? No it is one in all beings. Further, we see that the the other beings, with their bodies, world -- that is what is revealed by awareness -- is it separate from awareness? Drasta toh drishya se alag hai par kya drishya drashta se alag hai? Withouth the presence of consciousness there can't be any experience. The variety of objects can't be proved to be apart from consciousness. This becomes more clear when we understand the Existence aspect of Awareness.
+
+
+Can an enlightenend person clearly says I am at peace. With whatever is going on, he should be able to say I am alright. This realization of Brahman won't hamper in your day to day life (unless there are few who want to remain absorbed -- rare cases). Samadarshinam -- all the high and the low that we see -- this difference goes away. This practise of equality and that is crushing away the hierarchy -- this is very helpful for Vedanta.
+
+
+verse 19 -- if you want to become free right here right now, become equanimous. You don't have to stop the movie once the screen is realized. They are at two different levels of reality. The screen is free right here right now. You are free right here right now. Brahman nevers enters into Karma. Sins and good deeds -- they don't have any effects on it.
