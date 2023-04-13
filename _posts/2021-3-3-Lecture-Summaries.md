@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Vedanta Lecture Summaries
-published: true
-comments: true
+published: false
+comments: false
 categories: 
 - Life philosophy
 ---
