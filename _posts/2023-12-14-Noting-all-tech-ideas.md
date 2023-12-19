@@ -21,9 +21,10 @@ categories:
   * The Elements of Style
       *  Simple thumb rules
   * LinkedIn Learning - the three-step process
-      * Ideas collection
+      * Ideas collection - capture them
       * Drafting from the idea - 500 words
       * Editing that idea
+      * 
   * LinkedIn Learning - detailed study
       * When you start writing something, answer two questions, as descriptively as possible:
         * What do you want your readers to get out of your article/lecture?
