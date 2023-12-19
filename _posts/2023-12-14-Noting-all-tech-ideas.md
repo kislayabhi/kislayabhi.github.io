@@ -24,7 +24,7 @@ categories:
       * Ideas collection - capture them
       * Drafting from the idea - 500 words
       * Editing that idea
-      * 
+      * Try to do these steps on separate days. That will help in coming at your idea and the article from multiple directions.
   * LinkedIn Learning - detailed study
       * When you start writing something, answer two questions, as descriptively as possible:
         * What do you want your readers to get out of your article/lecture?
