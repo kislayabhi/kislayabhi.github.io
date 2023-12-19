@@ -17,6 +17,9 @@ categories:
   * Looks like reading from a large PDF is still hard for LLMs.
 * Build a NAS server for home use.
 * An article on Two Indias.
+* Put all the speeches given by Atal Bihari Vajpayee together in a single place so that one can consume them.
+  * Create a Youtube playlist and possibly do Hindi transcription for each of them.
+  * If the dates can also be provided alongside, that would be great!
 * Eggnog Forum - Writing
   * The Elements of Style
       *  Simple thumb rules
