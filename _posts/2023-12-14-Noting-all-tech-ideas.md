@@ -18,7 +18,7 @@ categories:
 * Build a NAS server for home use.
 * An article on Two Indias.
 * What an awesome write Somerset Maugham is!
-  * Article "The Saint (1958)" which describes his interaction with Ramana Maharishi.
+  * Article ["The Saint (1958)"](https://mmccl.blogspot.com/2016/01/the-saint.html) which describes his interaction with Ramana Maharishi.
   * And also of interest is the book "The Summing Up". Chapter 55 talks about how travel enriched him and made him look life differently after each of his trips.
   * Also it seems he used Ramana's character in the novel "The Razor's Edge" which later on was adapted two times for movies.
 * Put all the speeches given by Atal Bihari Vajpayee together in a single place so that one can consume them.
