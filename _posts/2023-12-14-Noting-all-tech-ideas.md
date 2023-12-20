@@ -17,6 +17,9 @@ categories:
   * Looks like reading from a large PDF is still hard for LLMs.
 * Build a NAS server for home use.
 * An article on Two Indias.
+  * This could also take some help from "The Razor's Edge" this scene specifically: [youtube](https://youtu.be/f9WrSkcbpvg)
+  * To some extent I always wanted to chart how Vedanta subtly has promulgated in the American movie and novel scene. And funnily enough I got a really interesting article over here: https://www.theguardian.com/film/2014/dec/25/movies-embraced-hinduism which is actually well done!
+    * Movie Anubhav, this [article](https://www.theguardian.com/film/2008/jul/29/anubhav.bollywood) led me to this: "the past comes between us only when we aren't able to live the present completely"
 * What an awesome write Somerset Maugham is!
   * Article ["The Saint (1958)"](https://mmccl.blogspot.com/2016/01/the-saint.html) which describes his interaction with Ramana Maharishi.
   * And also of interest is the book "The Summing Up". Chapter 55 talks about how travel enriched him and made him look life differently after each of his trips.
