@@ -19,3 +19,9 @@ community. The formation of community is viable only once you have found some ev
         2. They foster friendships rooted in an affinity for your product, which drives lifetime value and new customer referrals.
         3. Some tips: You need to set the stage for the new community members - by letting early members play a role in shaping and growing the community and also by creating an environment compelling enough to reel in anyone who enters.
 
+Some great case studies:
+
+1. Chip Morningstar and Randy Farmer
+Cocreators of Lucasfilm Games “Habitat”. Some noteworthy anecdotes:
+   * Farmer noted: "I had an idealism then, which I shared with my father, which was that the Internet would connect everyone and that great things would happen. People would cooperate more. There would be fewer wars. Now I’m not sure that throwing everyone into a big pile on the Internet was good design. **Over the years, I realized that the best communities are the ones that have shared content, a shared purpose for existing, even if it’s temporary and on a smaller scale.**"
+
