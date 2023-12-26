@@ -30,6 +30,8 @@ categories:
   * Create a Youtube playlist and possibly do Hindi transcription for each of them.
   * If the dates can also be provided alongside, that would be great!
 * [Eggnog Forum](https://docs.google.com/document/d/1wkgTfwoFEhGPrYC7-GZYt5Z3r2_jvq4TVRox9RX9eKc)
+  * Book Reviews
+    * Sanjeev Sanyal - The Indic Rennaisance. 
   * Writing
     * The Elements of Style
         *  Simple thumb rules
