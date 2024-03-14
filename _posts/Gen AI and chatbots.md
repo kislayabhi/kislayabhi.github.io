@@ -50,9 +50,17 @@
   9. Today's LLMs have paved the way for an immense array of advanced applications centered around:
       - Content generation: Generating various types of media, including text, sound, and images.
       - Logical reasoning: They can unravel the underlying meaning in textual data. This helps in sentiment analysis and other complex reasoning tasks that involve extracting meaningful insights from text and providing a deeper understanding of human language.
-      - Language Translation
-      - Text retrieval
+      - Language Translation: LLMs can accurately convert text from one language to another, ensuring effective and reliable translation.
+      - Text Retrieval, Content Summarization, and Search: LLMs are pre-trained on vast amounts of text data, allowing them to grasp the nuances of language and comprehend the meaning of the text. They can search through large databases or the internet in general to locate relevant information based on user-defined queries.
       - Code generation
-      - Content summarization
-      - Search
-  10. 
+  10. One thing to note is - the Gen AI models and the decisions made from those models are only as good as the data that supports them. The more data these models ingest and the more situations they encounter, the smarter and more comprehensive they become.
+
+
+## Pre-trained models
+
+There's a rapidly growing market for creating and customizing gen AI foundational models. This has given rise to a surge of LLMs that have been pre-trained on data sets with millions or even billions of records.
+
+The challenge facing today's enterprise involves augmenting LLMs with this corporate data in a secure and governed manner. 
+
+1. Start by unifying data in a comprehensive repository that multiple workgroups can access easily and securely. This allows for centralized data governance and democratizing access to gen AI initiatives across your organization while minimizing complexity and optimizing costs. I think a good data pipeline is essential in leveraging Gen AI solutions.
+2. General purpose LLMs --> Contextually trained LLMs. A foundational model serves as the basis for developing specialized applications adapted to specific industries, business problems, and use cases. A foundational model can often be multimodal, meaning it handles both text and other media such as images. 
