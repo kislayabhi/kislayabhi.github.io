@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Leadership?
-published: true
+published: false
 comments: true
 categories: 
 - Life philosophy
@@ -9,10 +9,9 @@ categories:
 - Work
 ---
 
-Leadership makes you responsible. This is what I am realizing. And it is forcing me to think about the dual nature of any work. Till now all the work that I did as Senior software developer - all my energy was spent in figuring out what I am getting out of the process.
-As time progressed, and I studied Vedanta and Vivekananda on the side, I started realizing that this has been a very limited way to think about life. And a very selfish one - the outcome of which generally results in great dissatisfaction.
+Leadership makes you responsible. This is what I am realizing. And it is forcing me to think about the dual nature of any work. Until now, in all the work that I did as a Senior software developer, my energy was spent on figuring out what "I" am learning out of this process. As time progressed, and I studied Vedanta and Vivekananda on the side, I started realizing that this has been a very limited way to think about life. And a very selfish one the outcome of which generally results in great dissatisfaction. Some of these conclusions are things I can very clearly relate to the role of leadership, for I recently got promoted as the Team Lead, where I started leading a team of software devs of varying experience and proficiencies.
 
-Prove this from your deep experience to excel in Computer Vision and ML -- and how after spending 4 years on it - I came to realize that it doesn't have any joy in it. I hit an extremely high wall.
+If we keep the current leadership role aside, just to prove this from your deep experience to excel in Computer Vision and ML -- and how after spending 4 years on it - I came to realize that it doesn't have any joy in it. I hit an extremely high wall.
 Then through Vedanta, it became painstakingly evident to me that this "I" which I was thinking to be just this person Abhijeet - is not true. Rather this I is Infinite. There is no start nor any end to this I. That it is beginningless and it is deathless. Or to simplify this succinctly - I is Universal.
 The world that I see through my eyes is also I. How weird! The duality was an appearance - there is no distinction between this world and myself. It is the same reality!
 
