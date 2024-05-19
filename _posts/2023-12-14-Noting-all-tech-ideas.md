@@ -15,19 +15,25 @@ categories:
   * It should start with a small list of books and the famous saints and sages who have worked on them.
 * Crunch the insights from all the major outages via AI.
   * Looks like reading from a large PDF is still hard for LLMs.
+  * Maybe not anymore with GPT4o
 * Build a NAS server for home use.
+* An article on wood carving.
+* An article on skiing in the Alps.
+* An article on 30 days continuous morning swimming challenge.
+* An article on learning to sail!
+* An article on the Vedanta scene that I kinda did a photo writing already in the notes app.
 * An article on Two Indias.
-  * It is important to understand anything by listening and reading about the people rather than the so-called -isms/-vaads such as socialism, capitalism, wokeism, etc. I must have to say that my understanding of America changed a lot when I got a chance to interact more with the people of this land rather than just watching video songs and Hollywood movies. The idea must be understood with the source from which it comes from. Never apart from it. Take this approach to understand India rather than understanding it from the pov of social-scientists and professors explaining concepts and data. While they can serve as great guideposts, they don't produce inspiration for the future.
+  * It is important to understand anything by listening and reading about the people rather than the so-called -isms/-vaads such as socialism, capitalism, wokeism, etc. I must have to say that my understanding of America changed a lot when I got a chance to interact more with the people of this land rather than just watching video songs and Hollywood movies. The idea must be understood with the source from which it comes from. Never apart from it. Take this approach to understand India rather than understanding it from the pov of social scientists and professors explaining concepts and data. While they can serve as great guideposts, they don't produce inspiration for the future.
   * This could also take some help from "The Razor's Edge" this scene specifically: [youtube](https://youtu.be/f9WrSkcbpvg)
   * To some extent I always wanted to chart how Vedanta subtly has promulgated in the American movie and novel scene. And funnily enough, I got a really interesting article over here: https://www.theguardian.com/film/2014/dec/25/movies-embraced-hinduism which is well done!
     * Movie Anubhav, this [article](https://www.theguardian.com/film/2008/jul/29/anubhav.bollywood) led me to this: "The past comes between us only when we aren't able to live the present completely"
 * What an awesome writer Somerset Maugham is!
   * Article ["The Saint (1958)"](https://mmccl.blogspot.com/2016/01/the-saint.html) which describes his interaction with Ramana Maharishi. An excerpt which is useful for me:
      * "The Maharshi seldom spoke. For the most part he remained lost in contemplation; but merely to be in his presence enabled visitors to shake off their troubles and find peace. Sometimes they saw him suffused in brilliant light, but when they told him of this he brushed it off as a matter of no importance. They asked him questions. When they were frivolous, he maintained silence; when, however, he saw that they were in earnest he gave the instruction suited to the enquirer's need. It seemed to many that he could read their minds, for he would on occasion answer questions that they had not ventured to put to him. Many, influenced by his example, left their homes and came to the Ashram, desiring to lead the life of austerity which would lead them to the blessed state of union with the Infinite which is termed illumination. When the Maharshi knew that they had duties, a wife and mother dependent upon them, for instance, he dissuaded them from taking the step. Often persons came to ask whether their avocations could not but interfere with their spiritual efforts. Here is what he told one such enquirer: **"It is possible," he said, "to perform all the activities of life with detachment and regard only the Self as real. It is wrong to suppose that, if one is fixed in the Self, one's duties in life will not be properly performed. It is like an actor. He dresses and acts and even feels the part he is playing; but he knows that he is not that character, but someone else in real life. In the same way, why should the body-consciousness or the feeling 'I am the body' disturb you once you know that you are not the body, but the Self? Nothing that the body does should shake you from abidance in the Self. Such abidance will never interfere with the proper and effective discharge of whatever duties the body has, any more than the actor's being aware of his real status in life interferes with his acting a part on the stage.**""
-  * And also of interest is the book "The Summing Up". Chapter 55 talks about how travel enriched him and made him look life differently after each of his trips.
+  * And also of interest is the book "The Summing Up". Chapter 55 talks about how travel enriched him and made him look at life differently after each trip.
   * Also it seems he used Ramana's character in the novel "The Razor's Edge" which later on was adapted two times for movies.
 * Put all the speeches given by Atal Bihari Vajpayee together in a single place so that one can consume them.
-  * Create a Youtube playlist and possibly do Hindi transcription for each of them.
+  * Create a YouTube playlist and possibly do Hindi transcription for each.
   * If the dates can also be provided alongside, that would be great!
 * [Eggnog Forum](https://docs.google.com/document/d/1wkgTfwoFEhGPrYC7-GZYt5Z3r2_jvq4TVRox9RX9eKc)
   * Book Reviews
