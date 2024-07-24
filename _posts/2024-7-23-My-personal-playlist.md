@@ -11,6 +11,7 @@ I have since very recently started realizing that there are certain things out t
 
 Movies that I enjoy rewatching
 1. [Jab We Met](https://www.imdb.com/title/tt1093370/)
+2. [Whisper of the Heart](https://www.imdb.com/title/tt0113824/)
 
 Songs that vibe naturally with me
 1. [Little Dark Age](https://music.youtube.com/watch?v=ETEg-SB01QY&si=m2pNNlSB0dmkBMG4)
