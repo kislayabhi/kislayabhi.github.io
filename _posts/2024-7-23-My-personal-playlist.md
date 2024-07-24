@@ -19,6 +19,7 @@ Songs that vibe naturally with me
 
 Poems
 1. [कुछ भी बन बस कायर मत बन](http://kavitakosh.org/kk/%E0%A4%95%E0%A5%81%E0%A4%9B_%E0%A4%AD%E0%A5%80_%E0%A4%AC%E0%A4%A8_%E0%A4%AC%E0%A4%B8_%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%B0_%E0%A4%AE%E0%A4%A4_%E0%A4%AC%E0%A4%A8_/_%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0_%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE)
+2. [The Prophet](https://en.wikipedia.org/wiki/The_Prophet_(book)) by Khalil Gibran
 
 Theatre
 1. [The play that goes wrong](https://www.newyorktheatreguide.com/show/14790-the-play-that-goes-wrong-tickets)
