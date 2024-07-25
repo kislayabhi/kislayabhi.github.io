@@ -9,9 +9,10 @@ categories:
 
 I have since very recently started realizing that there are certain things out there in the world that I eternally vibe with, out of its natural composition. There are other things that I have to try hard to learn and understand before I can truly say that I enjoy them. On this page, I want to keep a note of all those things that I love watching/reading/listening. 
 
-## Movies that I enjoy rewatching
+## Movies
 1. [Jab We Met](https://www.imdb.com/title/tt1093370/)
 2. [Whisper of the Heart](https://www.imdb.com/title/tt0113824/)
+3. [The Truman Show](https://www.imdb.com/title/tt0120382/)
 
 ## Songs that vibe naturally with me
 1. [Little Dark Age](https://music.youtube.com/watch?v=ETEg-SB01QY&si=m2pNNlSB0dmkBMG4)
