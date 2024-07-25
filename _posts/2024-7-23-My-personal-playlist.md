@@ -28,3 +28,7 @@ I have since very recently started realizing that there are certain things out t
 ## Theatre
 1. [The play that goes wrong](https://www.newyorktheatreguide.com/show/14790-the-play-that-goes-wrong-tickets)
 2. [Back to the future](https://www.newyorktheatreguide.com/show/26018-back-to-the-future-tickets)
+
+## Animes
+1. One Punch Man
+2. Naruto
