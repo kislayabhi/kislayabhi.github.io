@@ -32,3 +32,6 @@ I have since very recently started realizing that there are certain things out t
 ## Animes
 1. One Punch Man
 2. Naruto
+
+## Wish to read
+1. [The Cold War: A beginner's guide](https://archive.org/details/coldwarbeginners0000thom) by Merrilyn Thomas
