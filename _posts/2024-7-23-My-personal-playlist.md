@@ -7,7 +7,7 @@ categories:
 - Life philosophy
 ---
 
-I have since very recently started realizing that there are certain things out there in the world that I eternally vibe with, out of its natural composition. There are other things that I have to try hard to learn and understand before I can truly say that I enjoy them. On this page, I want to keep a note of all those things that I love watching/reading/listening. 
+I have since very recently started realizing that there are certain things out there in the world that I eternally vibe with, out of its natural composition. There are other things that I have to try hard to learn and understand before I can truly say that I enjoy them. To make sure all that I like is present in one place, I decided to keep it on this page to keep a note of all those things that I love watching/reading/listening to. 
 
 ## Movies
 1. [Jab We Met](https://www.imdb.com/title/tt1093370/)
