@@ -13,7 +13,10 @@ I have since very recently started realizing that there are certain things out t
 1. [Jab We Met](https://www.imdb.com/title/tt1093370/)
 2. [Whisper of the Heart](https://www.imdb.com/title/tt0113824/)
 3. [The Truman Show](https://www.imdb.com/title/tt0120382/)
-4. [Haider]
+4. [Haider](https://www.imdb.com/title/tt3390572/)
+   - [So Jao](https://youtu.be/H-km32aDmxY)
+   - [Gulon Mein Rang Bhare](https://www.youtube.com/watch?v=KNQ7ElKRtAs&pp=ygUMaGFpZGVyIHNvbmdz)
+   - [Bismil](https://youtu.be/p6ZxI5_A69M)
 
 ## Songs that vibe naturally with me
 1. [Little Dark Age](https://music.youtube.com/watch?v=ETEg-SB01QY&si=m2pNNlSB0dmkBMG4)
