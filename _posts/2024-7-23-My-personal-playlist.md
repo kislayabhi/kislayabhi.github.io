@@ -41,6 +41,9 @@ I have since very recently started realizing that there are certain things out t
 ## Vlogs
 1. [Rom Rom ji](https://youtube.com/@romromji?si=Ldi1Q9SL3XobIPG6)
 
+## Spiritual Talks
+1. [Jeevan Jeeney ki Kala](https://youtu.be/mVBl__RbDsI)
+
 ## Wish to read
 1. [The Cold War: A beginner's guide](https://archive.org/details/coldwarbeginners0000thom) by Merrilyn Thomas
 
