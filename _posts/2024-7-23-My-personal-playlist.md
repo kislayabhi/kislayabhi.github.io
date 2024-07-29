@@ -49,6 +49,7 @@ I have since very recently started realizing that there are certain things out t
 
 ## Wish to read
 1. [The Cold War: A beginner's guide](https://archive.org/details/coldwarbeginners0000thom) by Merrilyn Thomas
+2. "No assholes" culture of NZ rugby team.
 
 ## Wish to listen
 1. [Matt Schofield](https://music.youtube.com/channel/UCJa1nIOOZ4HVM5v5ptCZAVw?si=anvwftx_RSbgz0kn)
