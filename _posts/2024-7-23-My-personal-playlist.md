@@ -30,6 +30,7 @@ I have since very recently started realizing that there are certain things out t
 2. [The Prophet](https://en.wikipedia.org/wiki/The_Prophet_(book)) by Khalil Gibran
 3. [Madhushala](https://youtu.be/0nsWU-4R3mw) by Harivansh Rai Bachchan
 4. [Main Haar Nahi Manunga](https://youtu.be/5QMEmtC7G20) by Atal Bihari Vajpayee
+5. [Kuch Sapney ke mar jaaney se jivan nahi mara karta hai](https://youtu.be/hl9Ppi_d5cc)
 
 ## Theatre
 1. [The play that goes wrong](https://www.newyorktheatreguide.com/show/14790-the-play-that-goes-wrong-tickets)
