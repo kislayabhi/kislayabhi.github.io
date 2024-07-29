@@ -45,7 +45,7 @@ I have since very recently started realizing that there are certain things out t
 
 ## Spiritual Talks
 1. [Jeevan Jeeney ki Kala](https://youtu.be/mVBl__RbDsI)
-2. [Jeevan mein utsah](https://youtu.be/JnGvHt4aorY)
+2. [Jeevan mein Utsah](https://youtu.be/JnGvHt4aorY)
 
 ## Wish to read
 1. [The Cold War: A beginner's guide](https://archive.org/details/coldwarbeginners0000thom) by Merrilyn Thomas
