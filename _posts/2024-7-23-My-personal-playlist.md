@@ -47,6 +47,10 @@ I have since very recently started realizing that there are certain things out t
 1. [Jeevan Jeeney ki Kala](https://youtu.be/mVBl__RbDsI)
 2. [Jeevan mein Utsah](https://youtu.be/JnGvHt4aorY)
 
+## Currently reading
+1. [Goal by Dhyan Chand](http://bharatiyahockey.org/granthalaya/goal/)
+2. [Gita by Nochur](https://voiceofrishis.myshopify.com/products/srimad-bhagavad-gita-elixir-of-eternal-wisdom-paperback)
+
 ## Wish to read
 1. [The Cold War: A beginner's guide](https://archive.org/details/coldwarbeginners0000thom) by Merrilyn Thomas
 2. "No assholes" culture of NZ rugby team
