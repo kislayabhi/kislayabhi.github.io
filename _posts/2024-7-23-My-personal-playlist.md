@@ -42,6 +42,10 @@ I have since very recently started realizing that there are certain things out t
 ## Animes
 1. One Punch Man
 2. Naruto
+3. Avatar the last airbender
+
+## Cartoons
+1. Mr Bean the animated series!
 
 ## Vlogs
 1. [Rom Rom ji](https://youtube.com/@romromji?si=Ldi1Q9SL3XobIPG6)
