@@ -28,6 +28,9 @@ I have since very recently started realizing that there are certain things out t
    - [Joe Satriani - Made of Tears](https://www.youtube.com/watch?v=M4lsB-B1O7U)
    - [Steve Vai - Incredible "Whispering a Prayer"](https://youtu.be/ZWRySOtRuiQ?si=wnKGqIBc12moHIzF)
 
+## Music mixes
+1. [old songs but it's lofi remix](https://youtu.be/BrnDlRmW5hs?si=2jecTT1rNKj3_gPy)
+
 ## Poems
 1. [कुछ भी बन बस कायर मत बन](http://kavitakosh.org/kk/%E0%A4%95%E0%A5%81%E0%A4%9B_%E0%A4%AD%E0%A5%80_%E0%A4%AC%E0%A4%A8_%E0%A4%AC%E0%A4%B8_%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%B0_%E0%A4%AE%E0%A4%A4_%E0%A4%AC%E0%A4%A8_/_%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0_%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE) by नरेन्द्र शर्मा
 2. [The Prophet](https://en.wikipedia.org/wiki/The_Prophet_(book)) by Khalil Gibran
