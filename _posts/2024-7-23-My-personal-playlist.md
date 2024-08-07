@@ -58,7 +58,8 @@ I have since very recently started realizing that there are certain things out t
 2. [Jeevan mein Utsah](https://youtu.be/JnGvHt4aorY)
 
 ## Current online courses
-1. [Sunderkand by Smt. Uma Sharma](https://youtu.be/QZoJ5rbu65E)
+1. [Sunderkand by Smt. Uma Sharma](https://youtu.be/QZoJ5rbu65E) | [Notes](https://docs.google.com/document/d/1ke8AWx5qmxLOrPC1_C1CGBw_p7wyyg5dCmLWkpfZ_3o/edit)
+2. [Foundations of Sanatana Dharma](https://www.youtube.com/watch?v=fK_1yR1ZU_U&ab_channel=LearnSanskritOnline%3Avyoma-samskrta-pathasala) | [Notes](https://docs.google.com/document/d/17A87CVBnX53Ulfvi5NFigYXaxXqLcg_GitlaHvuu72Q/edit)
 
 ## Currently reading
 1. [Goal by Dhyan Chand](http://bharatiyahockey.org/granthalaya/goal/)
