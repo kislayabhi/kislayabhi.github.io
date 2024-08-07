@@ -73,3 +73,6 @@ I have since very recently started realizing that there are certain things out t
 1. [Matt Schofield](https://music.youtube.com/channel/UCJa1nIOOZ4HVM5v5ptCZAVw?si=anvwftx_RSbgz0kn)
 2. [Greg Howe](https://music.youtube.com/channel/UCrLnkg-SiP0WpZrt1CZpTLA?si=hbhybO7SAW6Adb3v)
 3. [The Ed Palermo Big Band](https://music.youtube.com/channel/UCxptQ3TtgatX4DnVUWeCZ5A?si=HFnzb83dcvqdS8Et)
+
+## Wish to explore sports
+1. [Nyc Soccer League - learn to play](https://www.betterplayer.com/)
