@@ -45,10 +45,10 @@ I have since very recently started realizing that there are certain things out t
 ## Animes
 1. One Punch Man
 2. Naruto
-3. Avatar the last airbender
+3. Avatar the Last Airbender
 
 ## Cartoons
-1. Mr Bean the animated series!
+1. Mr Bean, the animated series!
 
 ## Vlogs
 1. [Rom Rom ji](https://youtube.com/@romromji?si=Ldi1Q9SL3XobIPG6)
@@ -68,6 +68,7 @@ I have since very recently started realizing that there are certain things out t
 1. [The Cold War: A beginner's guide](https://archive.org/details/coldwarbeginners0000thom) by Merrilyn Thomas
 2. "No assholes" culture of NZ rugby team
 3. Christian Idiodi: Building winning products is a Team Sport
+4. [The Intelligent Investor by Benjamin Graham](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
 
 ## Wish to listen
 1. [Matt Schofield](https://music.youtube.com/channel/UCJa1nIOOZ4HVM5v5ptCZAVw?si=anvwftx_RSbgz0kn)
