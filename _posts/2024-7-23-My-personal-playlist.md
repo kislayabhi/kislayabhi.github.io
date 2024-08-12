@@ -4,10 +4,10 @@ title: My personal playlist
 published: true
 comments: true
 categories:
-- Life philosophy
+- Life Philosophy
 ---
 
-I have since very recently started realizing that there are certain things out there in the world that I eternally vibe with, out of its natural composition. There are other things that I have to try hard to learn and understand before I can truly say that I enjoy them. To make sure all that I like is present in one place, I decided to keep it on this page to keep a note of all those things that I love watching/reading/listening to. 
+I have only recently started realizing that there are certain things out there in the world that I eternally vibe with out of their natural composition. There are other things that I have to try hard to learn and understand before I can truly say that I enjoy them. To make sure all that I like is present in one place, I decided to keep it on this page to keep a note of all those things that I love watching/reading/listening to. 
 
 ## Movies
 1. [Jab We Met](https://www.imdb.com/title/tt1093370/)
@@ -29,7 +29,7 @@ I have since very recently started realizing that there are certain things out t
    - [Steve Vai - Incredible "Whispering a Prayer"](https://youtu.be/ZWRySOtRuiQ?si=wnKGqIBc12moHIzF)
 
 ## Music mixes
-1. [old songs but it's lofi remix](https://youtu.be/BrnDlRmW5hs?si=2jecTT1rNKj3_gPy)
+1. [Old songs, but it's Lofi remix](https://youtu.be/BrnDlRmW5hs?si=2jecTT1rNKj3_gPy)
 
 ## Poems
 1. [कुछ भी बन बस कायर मत बन](http://kavitakosh.org/kk/%E0%A4%95%E0%A5%81%E0%A4%9B_%E0%A4%AD%E0%A5%80_%E0%A4%AC%E0%A4%A8_%E0%A4%AC%E0%A4%B8_%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%B0_%E0%A4%AE%E0%A4%A4_%E0%A4%AC%E0%A4%A8_/_%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0_%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE) by नरेन्द्र शर्मा
@@ -52,6 +52,11 @@ I have since very recently started realizing that there are certain things out t
 
 ## Vlogs
 1. [Rom Rom ji](https://youtube.com/@romromji?si=Ldi1Q9SL3XobIPG6)
+
+## Strength is Life, Weakness is Death
+1. [Take Action](https://youtu.be/xktn-KkQIZw?si=Op6KaZPs4Ykrnb4e)
+2. [I am God](https://youtu.be/y0DlUcPgAoY?si=j0s-KnJnPYsjrQ0_)
+3. [Born Free, Live Free, Die Free](https://youtu.be/xktn-KkQIZw?si=PCj_74YxbfIZSMhP)
 
 ## Spiritual Talks
 1. [Jeevan Jeeney ki Kala](https://youtu.be/mVBl__RbDsI)
