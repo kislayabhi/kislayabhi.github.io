@@ -98,5 +98,5 @@ I have only recently started realizing that there are certain things out there i
 2. France - Scuba diving 101 certification
 3. India - Family time!
 
-## Recent Past Travel
+## Recent Past Travels
 1. Switzerland - Skiing through the Swiss and Italian Alps!
