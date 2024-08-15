@@ -89,6 +89,9 @@ I have only recently started realizing that there are certain things out there i
 2. [Greg Howe](https://music.youtube.com/channel/UCrLnkg-SiP0WpZrt1CZpTLA?si=hbhybO7SAW6Adb3v)
 3. [The Ed Palermo Big Band](https://music.youtube.com/channel/UCxptQ3TtgatX4DnVUWeCZ5A?si=HFnzb83dcvqdS8Et)
 
+## Wish to watch
+1. PG Wodehouse - Jeeves TV series
+
 ## Writing prompts
 1. Woodcarving experience
 2. Brushing up with swimming with a continuous 30 day challenge
@@ -98,6 +101,7 @@ I have only recently started realizing that there are certain things out there i
    - Volleyball
    - Writing
 4. Messi!
+5. Learning to drive
 
 ## Wish to explore sports
 1. [Nyc Soccer League - Learn to Play](https://www.betterplayer.com/)
