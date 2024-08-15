@@ -89,6 +89,15 @@ I have only recently started realizing that there are certain things out there i
 2. [Greg Howe](https://music.youtube.com/channel/UCrLnkg-SiP0WpZrt1CZpTLA?si=hbhybO7SAW6Adb3v)
 3. [The Ed Palermo Big Band](https://music.youtube.com/channel/UCxptQ3TtgatX4DnVUWeCZ5A?si=HFnzb83dcvqdS8Et)
 
+## Writing prompts
+1. Woodcarving experience
+2. Brushing up with swimming with a continuous 30 day challenge
+3. Taking things that I left at some point and rekindeling them
+   - Swimming
+   - Soccer
+   - Volleyball
+   - Writing
+
 ## Wish to explore sports
 1. [Nyc Soccer League - Learn to Play](https://www.betterplayer.com/)
 2. [Big City Volleyball](https://bigcityvolleyball.com/adult-classes)
