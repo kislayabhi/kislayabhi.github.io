@@ -87,4 +87,4 @@ I have only recently started realizing that there are certain things out there i
 ## Wish to explore sports
 1. [Nyc Soccer League - Learn to Play](https://www.betterplayer.com/)
 2. [Big City Volleyball](https://bigcityvolleyball.com/adult-classes)
-3. [Cycling](https://www.crca.net/join-crca)
+3. [Cycling in Central Park](https://www.crca.net/join-crca)
