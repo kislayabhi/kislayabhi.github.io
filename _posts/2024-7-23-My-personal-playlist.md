@@ -57,6 +57,7 @@ I have only recently started realizing that there are certain things out there i
 1. [Take Action](https://youtu.be/xktn-KkQIZw?si=Op6KaZPs4Ykrnb4e)
 2. [I am God](https://youtu.be/y0DlUcPgAoY?si=j0s-KnJnPYsjrQ0_)
 3. [Born Free, Live Free, Die Free](https://youtu.be/xktn-KkQIZw?si=PCj_74YxbfIZSMhP)
+4. [Neville Goddard - Faith in Action](https://youtu.be/4cHzkgJThFU?si=XB7j3JnPJfY0eUcs)
 
 ## Spiritual Talks
 1. [Jeevan Jeeney ki Kala](https://youtu.be/mVBl__RbDsI)
