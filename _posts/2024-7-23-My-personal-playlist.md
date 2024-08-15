@@ -85,5 +85,6 @@ I have only recently started realizing that there are certain things out there i
 3. [The Ed Palermo Big Band](https://music.youtube.com/channel/UCxptQ3TtgatX4DnVUWeCZ5A?si=HFnzb83dcvqdS8Et)
 
 ## Wish to explore sports
-1. [Nyc Soccer League - learn to play](https://www.betterplayer.com/)
+1. [Nyc Soccer League - Learn to Play](https://www.betterplayer.com/)
 2. [Big City Volleyball](https://bigcityvolleyball.com/adult-classes)
+3. [Cycling](https://www.crca.net/join-crca)
