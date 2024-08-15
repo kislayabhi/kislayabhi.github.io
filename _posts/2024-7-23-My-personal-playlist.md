@@ -73,6 +73,10 @@ I have only recently started realizing that there are certain things out there i
 1. [Goal by Dhyan Chand](http://bharatiyahockey.org/granthalaya/goal/)
 2. [Gita by Nochur](https://voiceofrishis.myshopify.com/products/srimad-bhagavad-gita-elixir-of-eternal-wisdom-paperback)
 
+## Sports that I am currently learning
+1. [Sailing at the True North Sailing Club](https://sailtruenorth.com/)
+2. [Pool at Play!Hoboken](https://playhoboken.com/)
+
 ## Wish to read
 1. [The Cold War: A beginner's guide](https://archive.org/details/coldwarbeginners0000thom) by Merrilyn Thomas
 2. "No assholes" culture of NZ rugby team
@@ -88,3 +92,11 @@ I have only recently started realizing that there are certain things out there i
 1. [Nyc Soccer League - Learn to Play](https://www.betterplayer.com/)
 2. [Big City Volleyball](https://bigcityvolleyball.com/adult-classes)
 3. [Cycling in Central Park](https://www.crca.net/join-crca)
+
+## Upcoming Travel
+1. Peru - To live in the Amazon rainforests
+2. France - Scuba diving 101 certification
+3. India - Family time!
+
+## Recent Past Travel
+1. Switzerland - Skiing through the Swiss and Italian Alps!
