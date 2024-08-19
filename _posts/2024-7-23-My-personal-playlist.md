@@ -7,7 +7,10 @@ categories:
 - Life Philosophy
 ---
 
-I have only recently started realizing that there are certain things out there in the world that I eternally vibe with out of their natural composition. There are other things that I have to try hard to learn and understand before I can truly say that I enjoy them. To make sure all that I like is present in one place, I decided to keep it on this page to keep a note of all those things that I love watching/reading/listening to. 
+I only recently realized that there are certain things out there in the world that I eternally vibe with out of their natural composition. There are other things that I have to try hard to learn and understand before I can truly say that I enjoy them. To make sure all that I like is present in one place, I decided to keep it on this page to keep a note of all those things that I love watching/reading/listening to. 
+
+## My own Instagram stories!
+1. https://www.instagram.com/archive/stories/
 
 ## Movies
 1. [Jab We Met](https://www.imdb.com/title/tt1093370/)
@@ -29,7 +32,7 @@ I have only recently started realizing that there are certain things out there i
    - [Steve Vai - Incredible "Whispering a Prayer"](https://youtu.be/ZWRySOtRuiQ?si=wnKGqIBc12moHIzF)
 
 ## Music mixes
-1. [Old songs, but it's Lofi remix](https://youtu.be/BrnDlRmW5hs?si=2jecTT1rNKj3_gPy)
+1. [Old songs, but it's Lofi Remix](https://youtu.be/BrnDlRmW5hs?si=2jecTT1rNKj3_gPy)
 2. [Coccolino Deep - Leon](https://www.youtube.com/watch?v=KWUVTxkl5rI)
 
 ## Poems
