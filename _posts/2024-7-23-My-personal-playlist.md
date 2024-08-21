@@ -111,6 +111,12 @@ I only recently realized that there are certain things out there in the world th
 4. Messi!
 5. My journey to "Learning to Drive"
 6. "H = PERMA" vs its evolution from "H = PEM"
+7. From Todo-lists to Themes!
+8. Why "Fake it till you make it" is a maha-mantra!
+   - It is an actionable statement
+   - And it takes the seriousness away from life which is the major reason why procrastination happens!
+
+
 
 ## Wish to explore sports
 1. [Nyc Soccer League - Learn to Play](https://www.betterplayer.com/)
