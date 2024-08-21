@@ -78,6 +78,8 @@ I only recently realized that there are certain things out there in the world th
 1. [Goal by Dhyan Chand](http://bharatiyahockey.org/granthalaya/goal/)
 2. [Gita by Nochur](https://voiceofrishis.myshopify.com/products/srimad-bhagavad-gita-elixir-of-eternal-wisdom-paperback)
 3. [Brag Documents, writing your career journey](https://jvns.ca/blog/brag-documents/)
+4. Write to learn by William Zinsser
+5. The lives of a cell by Lewis Thomas
 
 ## Sports that I am currently learning
 1. [Sailing at the True North Sailing Club](https://sailtruenorth.com/)
