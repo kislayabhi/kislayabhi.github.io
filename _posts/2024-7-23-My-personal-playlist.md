@@ -75,11 +75,15 @@ I only recently realized that there are certain things out there in the world th
 2. [Foundations of Sanatana Dharma](https://www.youtube.com/watch?v=fK_1yR1ZU_U&ab_channel=LearnSanskritOnline%3Avyoma-samskrta-pathasala) | [Notes](https://docs.google.com/document/d/17A87CVBnX53Ulfvi5NFigYXaxXqLcg_GitlaHvuu72Q/edit)
 
 ## Currently reading
-1. [Goal by Dhyan Chand](http://bharatiyahockey.org/granthalaya/goal/)
-2. [Gita by Nochur](https://voiceofrishis.myshopify.com/products/srimad-bhagavad-gita-elixir-of-eternal-wisdom-paperback)
-3. [Brag Documents, writing your career journey](https://jvns.ca/blog/brag-documents/)
-4. Write to learn by William Zinsser
-5. The lives of a cell by Lewis Thomas
+*  [Goal by Dhyan Chand](http://bharatiyahockey.org/granthalaya/goal/)
+*  [Gita by Nochur](https://voiceofrishis.myshopify.com/products/srimad-bhagavad-gita-elixir-of-eternal-wisdom-paperback)
+     * [Universal Message of Gita by Ranganathananda](https://www.goodreads.com/book/show/1203062.Universal_Message_of_the_Bhagavad_Gita_Vol_1?from_search=true&from_srp=true&qid=d4jh3Lk9LY&rank=1) 
+*  [Write to Learn by William Zinsser](https://goodreads.com/book/show/585474.Writing_to_Learn)
+     * [The lives of a cell by Lewis Thomas](https://www.goodreads.com/book/show/294368.The_Lives_of_a_Cell?from_search=true&from_srp=true&qid=11e2221lE7&rank=1)
+
+## Currently Reading - Articles
+1. [Chanakya and Machiavelli](https://swarajyamag.com/featured/chanakya-and-machiavelli-two-realists-in-comparison)
+2. [Brag Documents, writing your career journey](https://jvns.ca/blog/brag-documents/)
 
 ## Sports that I am currently learning
 1. [Sailing at the True North Sailing Club](https://sailtruenorth.com/)
