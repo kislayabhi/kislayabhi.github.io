@@ -105,7 +105,7 @@ I only recently realized that there are certain things in the world that I etern
 
 ## Wish to watch
 1. PG Wodehouse - Jeeves TV series
-2. Malcolm in the middle - 90s show with Bryan Cranston!
+2. Malcolm in the Middle - 90s show with Bryan Cranston!
 3. Peaky Blinders - Amazon Prime
 
 ## Writing prompts
@@ -125,13 +125,15 @@ I only recently realized that there are certain things in the world that I etern
    - It is an actionable statement
    - And it takes the seriousness away from life, which is why procrastination happens!
 9. Kanwal Rekhi's [Oped](https://www.linkedin.com/posts/kanwalrekhi_dot-hatao-desh-bachao-activity-7232880566948282368-RxL3?utm_source=share&utm_medium=member_ios) changed India's telecom industry during Vajpayee's tenure.
-   - Knowing about this is amazing because I have lived and seen the transformation in my growing years.
-   - This gives me a great sense of purpose on ways people have contributed during my growth years.
+   - Knowing about this is fantastic because I have lived and seen the transformation in my growing years.
+   - This gives me a great sense of purpose in how people have contributed during my years of growth.
+   - Also, funnily, I read Sam Pitroda's book end to end while on a flight. It was a great read. But Kanwal and Sam are essentially compatriots. So you can see the disagreements between them very clearly. And that clarifies what works and what doesn't work.
+   It is sad that research initiatives, as lucrative as they might sound, don't have potential in India, for they require more of an execution mindset to grab a big market for villages, etc.
 
 
 
 ## Wish to explore sports
-1. [Nyc Soccer League - Learn to Play](https://www.betterplayer.com/)
+1. [NYC Soccer League - Learn to Play](https://www.betterplayer.com/)
 2. [Big City Volleyball](https://bigcityvolleyball.com/adult-classes)
 3. [Cycling in Central Park](https://www.crca.net/join-crca)
 
