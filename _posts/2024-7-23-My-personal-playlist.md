@@ -95,6 +95,13 @@ I only recently realized that there are certain things out there in the world th
 3. Christian Idiodi: Building winning products is a Team Sport
 4. [The Intelligent Investor by Benjamin Graham](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
 5. [Kanwal Rakhi - an entreprenuer pundit](https://kanwalrekhi.com/)
+    - Especially this piece: Indian Telecom sector was liberalized on Jan 1, 2001. India had 17 million landlines and one million cell (mobile) phones in operation on that day. Landline business was essentially a government monopoly and government had taken tentative step to allow private sector operator (Bharati) to operate in couple of sectors.
+
+Liberalization was bold in nature. It allowed any number of operators in every sector. Licensing requirements got replaced with revenue share. It overnight changed the landscape. By the end of that year, there were still only 17 million landlines in India but Cell phones went up from 1 million to 87 million. By the end of the decade, there were 34 million landlines but cell phone number reached almost a billion. Indian telecom sector went from being most expensive and worst in the world to being cheapest and best in the world.
+
+It paved the way for the digital and entrepreneurial revolution in India. It truly has transformed India.
+
+The attached op-ed was written by me in year 2000 in Times of India. After its publication, I got a call from PMO. PM Vajpayee heard me out and within a week replaced Ram Vilas Paswan with Pramod Mahajan as Telecom Minister who adopted our recommendations (developed at Stanford with the help staff at SIEPR) unmodified and new policy went in effect a few months later. 
 
 ## Wish to listen
 1. [Matt Schofield](https://music.youtube.com/channel/UCJa1nIOOZ4HVM5v5ptCZAVw?si=anvwftx_RSbgz0kn)
