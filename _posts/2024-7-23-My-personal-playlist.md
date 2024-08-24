@@ -94,6 +94,7 @@ I only recently realized that there are certain things out there in the world th
 2. "No assholes" culture of NZ rugby team
 3. Christian Idiodi: Building winning products is a Team Sport
 4. [The Intelligent Investor by Benjamin Graham](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
+5. [Kanwal Rakhi - an entreprenuer pundit](https://kanwalrekhi.com/)
 
 ## Wish to listen
 1. [Matt Schofield](https://music.youtube.com/channel/UCJa1nIOOZ4HVM5v5ptCZAVw?si=anvwftx_RSbgz0kn)
