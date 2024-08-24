@@ -7,7 +7,7 @@ categories:
 - Life Philosophy
 ---
 
-I only recently realized that there are certain things out there in the world that I eternally vibe with out of their natural composition. There are other things that I have to try hard to learn and understand before I can truly say that I enjoy them. To make sure all that I like is present in one place, I decided to keep it on this page to keep a note of all those things that I love watching/reading/listening to. 
+I only recently realized that there are certain things in the world that I eternally vibe with out of their natural composition. There are other things that I have to try hard to learn and understand before I can genuinely say that I enjoy them. To make sure all that I like is present in one place, I decided to keep it on this page to keep a note of all those things that I love watching/reading/listening to. 
 
 ## My own Instagram stories!
 1. https://www.instagram.com/archive/stories/
@@ -79,7 +79,7 @@ I only recently realized that there are certain things out there in the world th
 *  [Gita by Nochur](https://voiceofrishis.myshopify.com/products/srimad-bhagavad-gita-elixir-of-eternal-wisdom-paperback)
      * [Universal Message of Gita by Ranganathananda](https://www.goodreads.com/book/show/1203062.Universal_Message_of_the_Bhagavad_Gita_Vol_1?from_search=true&from_srp=true&qid=d4jh3Lk9LY&rank=1) 
 *  [Write to Learn by William Zinsser](https://goodreads.com/book/show/585474.Writing_to_Learn)
-     * [The lives of a cell by Lewis Thomas](https://www.goodreads.com/book/show/294368.The_Lives_of_a_Cell?from_search=true&from_srp=true&qid=11e2221lE7&rank=1)
+     * [The Lives of a Cell by Lewis Thomas](https://www.goodreads.com/book/show/294368.The_Lives_of_a_Cell?from_search=true&from_srp=true&qid=11e2221lE7&rank=1)
 
 ## Currently Reading - Articles
 1. [Chanakya and Machiavelli](https://swarajyamag.com/featured/chanakya-and-machiavelli-two-realists-in-comparison)
@@ -94,7 +94,7 @@ I only recently realized that there are certain things out there in the world th
 2. "No assholes" culture of NZ rugby team
 3. Christian Idiodi: Building winning products is a Team Sport
 4. [The Intelligent Investor by Benjamin Graham](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
-5. [Kanwal Rakhi - an entreprenuer pundit](https://kanwalrekhi.com/)
+5. [Kanwal Rekhi - an entreprenuer pundit](https://kanwalrekhi.com/)
     - [Telecom revolution](https://www.linkedin.com/posts/kanwalrekhi_dot-hatao-desh-bachao-activity-7232880566948282368-RxL3?utm_source=share&utm_medium=member_ios)
 
 
@@ -110,8 +110,8 @@ I only recently realized that there are certain things out there in the world th
 
 ## Writing prompts
 1. Woodcarving experience
-2. Brushing up with swimming with a continuous 30 day challenge
-3. Taking things that I left at some point and rekindeling them
+2. Brushing up with swimming with a continuous 30-day challenge
+3. Taking things that I left at some point and rekindling them
    - Swimming
    - Soccer
    - Volleyball
@@ -123,7 +123,10 @@ I only recently realized that there are certain things out there in the world th
 7. From Todo-lists to Themes!
 8. Why "Fake it till you make it" is a maha-mantra!
    - It is an actionable statement
-   - And it takes the seriousness away from life which is the major reason why procrastination happens!
+   - And it takes the seriousness away from life, which is why procrastination happens!
+9. Kanwal Rekhi's [Oped](https://www.linkedin.com/posts/kanwalrekhi_dot-hatao-desh-bachao-activity-7232880566948282368-RxL3?utm_source=share&utm_medium=member_ios) changed India's telecom industry during Vajpayee's tenure.
+   - Knowing about this is amazing because I have lived and seen the transformation in my growing years.
+   - This gives me a great sense of purpose on ways people have contributed during my growth years.
 
 
 
