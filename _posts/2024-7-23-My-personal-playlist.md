@@ -97,7 +97,7 @@ I only recently realized that there are certain things in the world that I etern
 4. [The Intelligent Investor by Benjamin Graham](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
 5. [Kanwal Rekhi - an entreprenuer pundit](https://kanwalrekhi.com/)
     - [Telecom revolution](https://www.linkedin.com/posts/kanwalrekhi_dot-hatao-desh-bachao-activity-7232880566948282368-RxL3?utm_source=share&utm_medium=member_ios)
-
+6. Awesome article about the writing process: https://salman.io/notes/how-to-generate-ideas/
 
 ## Wish to listen
 1. [Matt Schofield](https://music.youtube.com/channel/UCJa1nIOOZ4HVM5v5ptCZAVw?si=anvwftx_RSbgz0kn)
