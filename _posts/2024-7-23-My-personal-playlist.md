@@ -130,6 +130,11 @@ I only recently realized that there are certain things in the world that I etern
    - This gives me a great sense of purpose in how people have contributed during my years of growth.
    - Also, funnily, I read Sam Pitroda's book end to end while on a flight. It was a great read. But Kanwal and Sam are essentially compatriots. So you can see the disagreements between them very clearly. And that clarifies what works and what doesn't work.
    It is sad that research initiatives, as lucrative as they might sound, don't have potential in India, for they require more of an execution mindset to grab a big market for villages, etc.
+10. My air india flight from blore to mumbai to nyc.
+   - It got stuck where APU didn't work
+   - so he can't shut the engines as that will kill the power
+   - but if he doesn't shut the engine, the door can't be opened!
+   - Its a gruesome three way lock !
 
 
 
