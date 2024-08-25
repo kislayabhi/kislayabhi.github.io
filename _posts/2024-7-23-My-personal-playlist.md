@@ -133,10 +133,10 @@ I only recently realized that there are certain things in the world that I etern
    - It is sad that research initiatives, as lucrative as they might sound, don't have potential in India, for they require more of an execution mindset to grab a big market for villages, etc.
 
 10. My air india flight from blore to mumbai to nyc.
-   - It got stuck where APU didn't work
-   - so he can't shut the engines as that will kill the power
-   - but if he doesn't shut the engine, the door can't be opened!
-   - Its a gruesome three way lock !
+    - It got stuck where APU didn't work
+    - so he can't shut the engines as that will kill the power
+    - but if he doesn't shut the engine, the door can't be opened!
+    - Its a gruesome three way lock !
 
 
 
