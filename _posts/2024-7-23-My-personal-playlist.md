@@ -12,6 +12,22 @@ I only recently realized that there are certain things in the world that I etern
 ## My own Instagram stories!
 *  https://www.instagram.com/archive/stories/
 
+## Snippets of teachings that makes sense to me
+
+* Providence
+  - Do what is needed to be done, irrespective of whether you like it or not.
+  - Be `businesslike` in your dealings with the world.
+  - Don't pay too much attention to your mind.
+
+* VSNY
+  - `Abhijeet` will never become free, rather, `I` will become free from `Abhijeet`.
+    - Here `Abhijeet` represents the mind or say the personality. 
+ 
+* Vrindavan
+  - "मैं" को ज्ञान नहीं होता है, जबकि, "ज्ञान" में "मैं" मालूम पड़ता है |
+  - ईश्वर का केवल एक ही कानून है की वह भक्त पक्षपाती होता है |
+  - ईश्वर का एक नाम है नटराज, मतलब, नाटकों के राजा।  हमें भी उनके जैसे नाटक करना आना चाहिए। 
+
 ## Movies
 *  [Jab We Met](https://www.imdb.com/title/tt1093370/)
 *  [Whisper of the Heart](https://www.imdb.com/title/tt0113824/)
