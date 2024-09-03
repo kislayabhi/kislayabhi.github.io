@@ -22,7 +22,12 @@ I only recently realized that there are certain things in the world that I etern
 * VSNY
   - `Abhijeet` will never become free, rather, `I` will become free from `Abhijeet`.
     - Here `Abhijeet` represents the mind or say the personality.
-  - We are spiritual beings having a human experience. 
+    - This is the most important of all teachings, that our real nature is beyond cause and effect.
+    - The cause and effect makes a person wax or wane, riding along with the mind.
+    - The mind is made of nature, and it will go through all the experiences and the three modes irrespective - which are sattva, rajas and tamas.
+    - Ignore them for they are not You. You are the touchless transcendent ever blissful Atman, beyond all the tragedies and the joys of life.
+    - They don't touch you an iota. But this understanding only becomes practical and blissful after one gets deeper into the bliss of meditation and starts enjoying some deep objectless peace within. 
+  - We are spiritual beings having a human experience.
  
 * Vrindavan
   - "मैं" को ज्ञान नहीं होता है, जबकि, "ज्ञान" में "मैं" मालूम पड़ता है |
