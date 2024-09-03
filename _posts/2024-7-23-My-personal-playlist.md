@@ -19,17 +19,19 @@ I only recently realized that there are certain things in the world that I etern
 4. [Haider](https://www.imdb.com/title/tt3390572/)
 
 ## Songs that vibe naturally with me
-1. [Little Dark Age](https://music.youtube.com/watch?v=ETEg-SB01QY&si=m2pNNlSB0dmkBMG4)
-2. [Pt. Kumar Gandharva](https://en.wikipedia.org/wiki/Kumar_Gandharva)
-   - [Nain Ghat Ghat Tan Ek Ghari](https://music.youtube.com/watch?v=AUFzPlBasio&si=Il5JnXQg8sMJMvaw)
-   - [Jhini Re Jhini](https://youtu.be/nkPftO3O730)
-3. [Haider](https://www.imdb.com/title/tt3390572/)
-   - [So Jao](https://youtu.be/H-km32aDmxY)
-   - [Gulon Mein Rang Bhare](https://www.youtube.com/watch?v=KNQ7ElKRtAs&pp=ygUMaGFpZGVyIHNvbmdz)
-   - [Bismil](https://youtu.be/p6ZxI5_A69M)
-4. Guitar Instrumentals
-   - [Joe Satriani - Made of Tears](https://www.youtube.com/watch?v=M4lsB-B1O7U)
-   - [Steve Vai - Incredible "Whispering a Prayer"](https://youtu.be/ZWRySOtRuiQ?si=wnKGqIBc12moHIzF)
+*  [Little Dark Age](https://music.youtube.com/watch?v=ETEg-SB01QY&si=m2pNNlSB0dmkBMG4)
+*  [Pt. Kumar Gandharva](https://en.wikipedia.org/wiki/Kumar_Gandharva)
+      - [Nain Ghat Ghat Tan Ek Ghari](https://music.youtube.com/watch?v=AUFzPlBasio&si=Il5JnXQg8sMJMvaw)
+      - [Jhini Re Jhini](https://youtu.be/nkPftO3O730)
+*  Lucky Ali
+      - [Jaane Kya Dhoondta Hai Ye Mera DiL](https://www.youtube.com/watch?v=EHOjy4N2lJo&pp=ygUjSmFhbmUgS3lhIERob29uZHRhIEhhaSBZZSBNZXJhIERpbCA%3D)
+*  [Haider](https://www.imdb.com/title/tt3390572/)
+      - [So Jao](https://youtu.be/H-km32aDmxY)
+      - [Gulon Mein Rang Bhare](https://www.youtube.com/watch?v=KNQ7ElKRtAs&pp=ygUMaGFpZGVyIHNvbmdz)
+      - [Bismil](https://youtu.be/p6ZxI5_A69M)
+*  Guitar Instrumentals
+      - [Joe Satriani - Made of Tears](https://www.youtube.com/watch?v=M4lsB-B1O7U)
+      - [Steve Vai - Incredible "Whispering a Prayer"](https://youtu.be/ZWRySOtRuiQ?si=wnKGqIBc12moHIzF)
 
 ## Music mixes
 1. [Old songs, but it's Lofi Remix](https://youtu.be/BrnDlRmW5hs?si=2jecTT1rNKj3_gPy)
@@ -132,13 +134,13 @@ I only recently realized that there are certain things in the world that I etern
    - Also, funnily, I read Sam Pitroda's book end to end while on a flight. It was a great read. But Kanwal and Sam are essentially compatriots. So you can see the disagreements between them very clearly. And that clarifies what works and what doesn't work.
    - It is sad that research initiatives, as lucrative as they might sound, don't have potential in India, for they require more of an execution mindset to grab a big market for villages, etc.
 
-10. My Air India flight from blore to mumbai to nyc.
+10. My Air India flight from Blore to Mumbai to NYC.
     - It got stuck where APU didn't work
     - so he can't shut the engines as that will kill the power
     - but if he doesn't shut the engine, the door can't be opened!
-    - Its a gruesome three way lock !
+    - It's a gruesome three-way lock!
 11. My love-hate affair with Gym
-    - The need of an instructor which made the difference!
+    - There is a need for an instructor who made a difference!
     - Paying money for the right cause is a purifying process - read somewhere in Antifragile
 
 
