@@ -141,9 +141,15 @@ I only recently realized that there are certain things in the world that I etern
     - so he can't shut the engines as that will kill the power
     - but if he doesn't shut the engine, the door can't be opened!
     - It's a gruesome three-way lock!
+   
 11. My love-hate affair with Gym
     - There is a need for an instructor who made a difference!
     - Paying money for the right cause is a purifying process - read somewhere in Antifragile
+   
+12. Peru's expensive food and the gotcha happened just after that!
+    - Spent 500$ tasting the 12-course menu from Astrid and Gaston in Lima.
+    - But oh boy, I didn't bring my credit card, lol.
+    - Lots of weird things happened after that. Worth writing about it at somepoint.
 
 
 ## Wish to explore sports
