@@ -108,6 +108,7 @@ I only recently realized that there are certain things in the world that I etern
      * [Universal Message of Gita by Ranganathananda](https://www.goodreads.com/book/show/1203062.Universal_Message_of_the_Bhagavad_Gita_Vol_1?from_search=true&from_srp=true&qid=d4jh3Lk9LY&rank=1) 
 *  [Write to Learn by William Zinsser](https://goodreads.com/book/show/585474.Writing_to_Learn)
      * [The Lives of a Cell by Lewis Thomas](https://www.goodreads.com/book/show/294368.The_Lives_of_a_Cell?from_search=true&from_srp=true&qid=11e2221lE7&rank=1)
+*  [On the Edge](https://www.natesilver.net/p/officially-announcing-on-the-edge)
 
 ## Currently Reading - Articles
 1. [Chanakya and Machiavelli](https://swarajyamag.com/featured/chanakya-and-machiavelli-two-realists-in-comparison)
