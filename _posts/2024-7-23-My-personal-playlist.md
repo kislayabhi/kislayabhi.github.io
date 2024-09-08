@@ -97,6 +97,7 @@ I only recently realized that there are certain things in the world that I etern
 3. [Japa by Sarvapriyananda](https://youtu.be/ihjl6C61is8?si=Qz5bsKJ6WKibl-5o)
 4. Gita Lecture snippets
    - [Bhagavad Gita: Chapter 2, Verse 13-15](https://github.com/kislayabhi/kislayabhi.github.io/blob/master/_posts/Gita.md) | [Soothing audio snippet](https://youtu.be/QD6PMVBDrZ4?t=1990)  
+5. [Atmananda Ramayan lectures](http://www.rkmathharipad.org/category/audio/e-lectures/)
 
 ## Current online courses
 1. [Sunderkand by Smt. Uma Sharma](https://youtu.be/QZoJ5rbu65E) | [Notes](https://docs.google.com/document/d/1ke8AWx5qmxLOrPC1_C1CGBw_p7wyyg5dCmLWkpfZ_3o/edit)
