@@ -35,6 +35,9 @@ I only recently realized that there are certain things in the world that I etern
   - ईश्वर का एक नाम है नटराज, मतलब, नाटकों के राजा।  हमें भी उनके जैसे नाटक करना आना चाहिए ।
   - ज्ञानी और अज्ञानी दोनों को नानात्व दीखता है, पर फर्क सिर्फ इतना है की - ज्ञानी की बुद्धि में यह बात बाधित है की नानात्व होते हुए भी यह सब अपना आपा आत्मा ही है ।
 
+## Upskill
+* [LLM Chatbot Udemy crash course](https://www.udemy.com/course/the-local-llm-crash-course-build-a-hugging-face-ai-chatbot/?couponCode=ST11MT91624A)
+
 ## Movies
 *  [Jab We Met](https://www.imdb.com/title/tt1093370/)
 *  [Whisper of the Heart](https://www.imdb.com/title/tt0113824/)
