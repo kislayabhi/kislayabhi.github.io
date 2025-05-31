@@ -1,0 +1,502 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Sri Sri Ramakrishna Kathamrita</title>
+    <link>https://archive.org/details/kathamrita1</link>
+    <description>Audio readings of the Sri Sri Ramakrishna Kathamrita (The Gospel of Sri Ramakrishna), in a serialized format.</description>
+    <language>en</language>
+    <itunes:author>Various</itunes:author>
+    <itunes:summary>Serialized audio of the Sri Sri Ramakrishna Kathamrita, as shared on the Internet Archive.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Your Name</itunes:name>
+      <itunes:email>your@email.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/kathamrita1/kathamrita.jpg"/>
+    <image>
+      <url>https://archive.org/download/kathamrita1/kathamrita.jpg</url>
+      <title>Sri Sri Ramakrishna Kathamrita</title>
+      <link>https://archive.org/details/kathamrita1</link>
+    </image>
+    <item>
+      <title>Episode 1: 00K00P</title>
+      <description>Episode 1: 00K00P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/00K00P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/00K00P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>25:41</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 2: 01K01P</title>
+      <description>Episode 2: 01K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/01K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/01K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>23:06</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 3: 01K02P</title>
+      <description>Episode 3: 01K02P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/01K02P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/01K02P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>07:36</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 4: 01K03P</title>
+      <description>Episode 4: 01K03P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/01K03P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/01K03P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>02:47</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 5: 01K04P</title>
+      <description>Episode 5: 01K04P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/01K04P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/01K04P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:09</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 6: 01K05P</title>
+      <description>Episode 6: 01K05P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/01K05P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/01K05P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>07:39</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 7: 01K06P</title>
+      <description>Episode 7: 01K06P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/01K06P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/01K06P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>13:45</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 8: 01K07P</title>
+      <description>Episode 8: 01K07P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/01K07P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/01K07P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>05:37</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 9: 01K08P</title>
+      <description>Episode 9: 01K08P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/01K08P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/01K08P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:44</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 10: 01K09P</title>
+      <description>Episode 10: 01K09P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/01K09P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/01K09P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:14</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 11: 01K10P</title>
+      <description>Episode 11: 01K10P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/01K10P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/01K10P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>05:57</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 12: 02K01P</title>
+      <description>Episode 12: 02K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/02K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/02K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>04:23</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 13: 02K02P</title>
+      <description>Episode 13: 02K02P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/02K02P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/02K02P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:41</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 14: 02K03P</title>
+      <description>Episode 14: 02K03P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/02K03P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/02K03P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:58</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 15: 02K04P</title>
+      <description>Episode 15: 02K04P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/02K04P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/02K04P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:29</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 16: 02K05P</title>
+      <description>Episode 16: 02K05P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/02K05P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/02K05P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:16</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 17: 02K06P</title>
+      <description>Episode 17: 02K06P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/02K06P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/02K06P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>08:18</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 18: 02K07P</title>
+      <description>Episode 18: 02K07P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/02K07P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/02K07P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>02:33</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 19: 02K08P</title>
+      <description>Episode 19: 02K08P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/02K08P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/02K08P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:33</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 20: 02K09P</title>
+      <description>Episode 20: 02K09P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/02K09P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/02K09P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:27</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 21: 02K10P</title>
+      <description>Episode 21: 02K10P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/02K10P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/02K10P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>04:28</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 22: 03K01P</title>
+      <description>Episode 22: 03K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/03K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/03K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>05:30</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 23: 03K02P</title>
+      <description>Episode 23: 03K02P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/03K02P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/03K02P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>04:53</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 24: 03K03P</title>
+      <description>Episode 24: 03K03P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/03K03P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/03K03P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>04:12</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 25: 03K04P</title>
+      <description>Episode 25: 03K04P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/03K04P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/03K04P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:54</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 26: 03K05P</title>
+      <description>Episode 26: 03K05P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/03K05P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/03K05P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>05:33</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 27: 03K06P</title>
+      <description>Episode 27: 03K06P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/03K06P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/03K06P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:32</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 28: 03K07P</title>
+      <description>Episode 28: 03K07P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/03K07P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/03K07P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:48</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 29: 04K01P</title>
+      <description>Episode 29: 04K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/04K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/04K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>07:18</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 30: 04K02P</title>
+      <description>Episode 30: 04K02P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/04K02P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/04K02P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:52</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 31: 04K03P</title>
+      <description>Episode 31: 04K03P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/04K03P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/04K03P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:39</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 32: 04K04P</title>
+      <description>Episode 32: 04K04P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/04K04P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/04K04P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>04:31</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 33: 04K05P</title>
+      <description>Episode 33: 04K05P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/04K05P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/04K05P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:43</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 34: 04K06P</title>
+      <description>Episode 34: 04K06P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/04K06P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/04K06P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>07:46</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 35: 04K07P</title>
+      <description>Episode 35: 04K07P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/04K07P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/04K07P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>13:49</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 36: 05K01P</title>
+      <description>Episode 36: 05K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/05K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/05K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>02:53</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 37: 05K02P</title>
+      <description>Episode 37: 05K02P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/05K02P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/05K02P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:12</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 38: 06K01P</title>
+      <description>Episode 38: 06K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/06K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/06K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:44</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 39: 06K02P</title>
+      <description>Episode 39: 06K02P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/06K02P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/06K02P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>09:19</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 40: 06K03P</title>
+      <description>Episode 40: 06K03P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/06K03P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/06K03P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>07:36</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 41: 07K01P</title>
+      <description>Episode 41: 07K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/07K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/07K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:28</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 42: 07K02P</title>
+      <description>Episode 42: 07K02P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/07K02P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/07K02P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>04:16</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 43: 07K03P</title>
+      <description>Episode 43: 07K03P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/07K03P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/07K03P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:37</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 44: 07K04P</title>
+      <description>Episode 44: 07K04P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/07K04P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/07K04P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>03:53</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 45: 07K05P</title>
+      <description>Episode 45: 07K05P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/07K05P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/07K05P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:20</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 46: 08K01P</title>
+      <description>Episode 46: 08K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/08K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/08K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:41</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 47: 08K02P</title>
+      <description>Episode 47: 08K02P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/08K02P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/08K02P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>02:35</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 48: 08K03P</title>
+      <description>Episode 48: 08K03P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/08K03P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/08K03P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>07:43</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 49: 08K04P</title>
+      <description>Episode 49: 08K04P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/08K04P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/08K04P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>04:21</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 50: 09K01P</title>
+      <description>Episode 50: 09K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/09K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/09K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>06:52</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 51: 09K02P</title>
+      <description>Episode 51: 09K02P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/09K02P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/09K02P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>12:07</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 52: 10K01P</title>
+      <description>Episode 52: 10K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/10K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/10K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>10:09</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 53: 10K02P</title>
+      <description>Episode 53: 10K02P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/10K02P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/10K02P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>02:29</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 54: 10K03P</title>
+      <description>Episode 54: 10K03P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/10K03P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/10K03P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>01:55</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 55: 10K04P</title>
+      <description>Episode 55: 10K04P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/10K04P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/10K04P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>04:19</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 56: 10K05P</title>
+      <description>Episode 56: 10K05P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/10K05P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/10K05P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>05:59</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 57: 10K06P</title>
+      <description>Episode 57: 10K06P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/10K06P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/10K06P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>08:08</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 58: 10K07P</title>
+      <description>Episode 58: 10K07P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/10K07P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/10K07P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>07:44</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 59: 10K08P</title>
+      <description>Episode 59: 10K08P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/10K08P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/10K08P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>04:49</itunes:duration>
+    </item>
+    <item>
+      <title>Episode 60: 11K01P</title>
+      <description>Episode 60: 11K01P</description>
+      <enclosure url="https://archive.org/download/kathamrita1/11K01P.mp3" type="audio/mpeg"/>
+      <guid>https://archive.org/download/kathamrita1/11K01P.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>07:33</itunes:duration>
+    </item>
+  </channel>
+</rss>
