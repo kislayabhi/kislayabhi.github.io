@@ -36,7 +36,7 @@ I only recently realized that there are certain things in the world that I etern
   - ज्ञानी और अज्ञानी दोनों को नानात्व दीखता है, पर फर्क सिर्फ इतना है की - ज्ञानी की बुद्धि में यह बात बाधित है की नानात्व होते हुए भी यह सब अपना आपा आत्मा ही है ।
 
 * Bhakti
-  - https://rutgers.mediaspace.kaltura.com/media/1_i3x9szsr
+  - Lectures by Edwin Bryant: https://rutgers.mediaspace.kaltura.com/media/1_i3x9szsr
   - 
 
 ## Upskill
