@@ -41,6 +41,7 @@ I only recently realized that there are certain things in the world that I etern
 
 ## Upskill
 * [LLM Chatbot Udemy crash course](https://www.udemy.com/course/the-local-llm-crash-course-build-a-hugging-face-ai-chatbot/?couponCode=ST11MT91624A)
+* [Move away from recipies and go to the why of cooking](https://youtu.be/Z9L-tJxPTGY)
 
 ## Movies
 *  [Jab We Met](https://www.imdb.com/title/tt1093370/)
